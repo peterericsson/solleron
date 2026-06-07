@@ -7,23 +7,22 @@ Levande dokument. **Arbetssätt:**
 3. Kopiera texten under **Meddelande till Johan** (hela rutan).
 4. Skriv in **Svar** när han svarat; sätt **Status** till `väntar` / `besvarad`.
 
-**Valt upplägg (projekt):** [Modell A](01-fastighetsbildning/behov-fastighetsbildning.sv.md) — en fastighet till barnen, stiftelse med långt arrende på ladans mark (ingen fastighetsbildning).
+**Valt upplägg (projekt):** **[Modell A](01-fastighetsbildning/behov-fastighetsbildning.sv.md)** — bekräftat av **Johan Rabén** (L-00). En fastighet till barnen, stiftelse med långt arrende på ladans mark, **ingen fastighetsbildning**.
 
 Personnummer: utanför repot eller `[PNR]`.
 
-**Status:** `ej skickad` · `väntar` · `besvarad`
+**Status:** `ej skickad` · `skickad · väntar svar` · `besvarad`
+
+**Just nu (2026-06-07):** Samlat meddelande **skickat till Johan** (Peter) — väntar svar på **L-B07**, **L-F01**, **L-F04**.
 
 ---
 
-## Nästa meddelande till Johan *(samlat — L-B07 + L-F01 + L-F04)*
+## Samlat meddelande till Johan *(L-B07 + L-F01 + L-F04)*
 
-**Status meddelande:** `väntar svar`
+**Status:** `skickad · väntar svar`  
+**Skickat:** 2026-06-07, 10:14 (Peter → Johan, tre meddelanden)
 
 ```text
-Hej Johan!
-
-Tack för all info hittills. Nästa steg — tre korta saker:
-
 1) Ariels mamma
 Hur gick det när ni pratade? Vi behöver veta:
 • Gemensam vårdnad eller ensam vårdnad?
@@ -35,12 +34,26 @@ Vad är fastighetsbeteckningen (som på lagfartsbevis / Lantmäteriet) och vilke
 
 3) Byggnader på tomten
 Kort lista — t.ex. bostadshus, lada (Sollerö Ladan), uthus, garage?
+```
 
-Personnummer behöver du inte skicka i chatten om du inte vill — de fyra sista räcker utanför.
+*(Fullständig mall med hälsning finns nedan om ni skickar igen.)*
+
+<details>
+<summary>Originalmall (referens)</summary>
+
+```text
+Hej Johan!
+
+Tack för all info hittills. Nästa steg — tre korta saker:
+
+1) Ariels mamma
+…
 
 Tack!
-/Cassie
+/Peter
 ```
+
+</details>
 
 ---
 
@@ -49,9 +62,9 @@ Tack!
 | ID | Fråga | Status |
 |----|-------|--------|
 | [L-00](#l-00--bekräfta-upplägg-modell-a) | **Start — bekräfta upplägg (Modell A)** | besvarad |
-| [L-F01](#l-f01--fastighetsbeteckning-och-kommun) | Fastighetsbeteckning och kommun | väntar |
+| [L-F01](#l-f01--fastighetsbeteckning-och-kommun) | Fastighetsbeteckning och kommun | skickad · väntar |
 | [L-F03](#l-f03--taxeringsvärde--marknadsvärde) | Taxeringsvärde / marknadsvärde | ej skickad |
-| [L-F04](#l-f04--antal-byggnader) | Antal byggnader på tomten | väntar |
+| [L-F04](#l-f04--antal-byggnader) | Antal byggnader på tomten | skickad · väntar |
 | [L-F05](#l-f05--lada-och-bostad-samma-fastighet) | Lada och bostad — samma fastighet | besvarad |
 | [L-F06](#l-f06--bygglov--klassificering-lada) | Bygglov / klassificering lada | ej skickad |
 | [L-F07](#l-f07--inteckningar--servitut) | Inteckningar / servitut | ej skickad |
@@ -61,7 +74,7 @@ Tack!
 | [L-B03](#l-b03--fördelning-ägarandel) | Fördelning ägarandel | besvarad |
 | [L-B04](#l-b04--samägande-eller-lotter) | Samägande (en fastighet) | ej skickad |
 | [L-B05](#l-b05--samtycke-alla-parter) | Samtycke (inkl. 100-års arrende) | väntar |
-| [L-B07](#l-b07--vårdnad-ariel) | Vårdnad / förmyndare Ariel | väntar |
+| [L-B07](#l-b07--vårdnad-ariel) | Vårdnad / förmyndare Ariel | skickad · väntar |
 | [L-J01](#l-j01--form-livslång-rätt) | Form för din livslånga rätt | ej skickad |
 | [L-J02](#l-j02--omfattning-nyttjande) | Omfattning (hus / tomt / lada) | ej skickad |
 | [L-J03](#l-j03--underhåll-och-kostnader) | Underhåll och kostnader | besvarad |
@@ -109,7 +122,7 @@ Tack!
 
 **Svar:**
 
-Ja — Johan tycker upplägget ser bra ut (2026-05-24, efter genomgång). Modell A bekräftad.
+Ja — Johan tycker **Modell A är bäst** och att upplägget ser bra ut (2026-05-24). **Modell A bekräftad:** en fastighet, stiftelse, långt arrende — **ingen** fastighetsbildning.
 
 ---
 
@@ -117,7 +130,7 @@ Ja — Johan tycker upplägget ser bra ut (2026-05-24, efter genomgång). Modell
 
 ### L-F01 · Fastighetsbeteckning och kommun
 
-**Status:** väntar — ingår i [samlat meddelande](#nästa-meddelande-till-johan-samlat--l-b07--l-f01--l-f04)
+**Status:** skickad · väntar svar — **2026-06-07** (Peter → Johan, meddelande 2)
 
 **Svar:**
 
@@ -150,7 +163,7 @@ Tack!
 
 ### L-F04 · Antal byggnader
 
-**Status:** väntar — ingår i [samlat meddelande](#nästa-meddelande-till-johan-samlat--l-b07--l-f01--l-f04)
+**Status:** skickad · väntar svar — **2026-06-07** (Peter → Johan, meddelande 3)
 
 **Svar:**
 
@@ -320,7 +333,7 @@ Ja — Ariel ska få **1/3 vid 18** (**2031-07-25**). Upplägg: gåva **nu** til
 
 ### L-B07 · Vårdnad / förmyndare (Ariel)
 
-**Status:** väntar — ingår i [samlat meddelande](#nästa-meddelande-till-johan-samlat--l-b07--l-f01--l-f04)
+**Status:** skickad · väntar svar — **2026-06-07** (Peter → Johan, meddelande 1)
 
 **Svar:**
 
@@ -612,6 +625,29 @@ Tack!
 
 *(Fria noteringar — datum, telefon, saker som inte passar i en enskild fråga.)*
 
+### 2026-06-07 — Frågor skickade till Johan (väntar svar)
+
+**Källa:** WhatsApp/meddelande (Peter)
+
+**Skickat:**
+
+1. Ariels mamma — vårdnad, namn, samtycke till upplägg  
+2. Fastighetsbeteckning + kommun  
+3. Byggnader på tomten  
+
+**Svar:** *(inväntas)*
+
+---
+
+**Källa:** meddelande
+
+**Anteckning:**
+
+- Johan tycker **Modell A är bäst** — en fastighet, stiftelse, arrende, **ingen** fastighetsbildning
+- Action plan fas 1 hoppas över; docs uppdaterade
+
+---
+
 ### 2026-05-24 — Födelsedatum; samtal med Ariels mamma ikväll
 
 **Källa:** meddelande
@@ -659,9 +695,11 @@ Tack!
 
 | Uppgift | Värde |
 |---------|-------|
-| **Modell** | A — en fastighet + arrende till stiftelsen |
-| Fastighetsbeteckning | |
-| Kommun | |
+| **Modell** | **A** — en fastighet + arrende (Johan: bäst) · fas 1 hoppas över |
+| Vårdnad Ariel | *Skickat 2026-06-07 — väntar svar* |
+| Fastighetsbeteckning | *Skickat 2026-06-07 — väntar svar* |
+| Kommun | *Skickat 2026-06-07 — väntar svar* |
+| Byggnader på tomten | *Skickat 2026-06-07 — väntar svar* |
 | Lada + bostad samma fastighet | Ja |
 | Stiftelsens namn | |
 | Stiftare | Johan Rabén |

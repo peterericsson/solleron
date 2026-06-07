@@ -4,6 +4,8 @@ Arbetsmapp för **stiftelse**, **fastighetsöverlåtelse**, **100-års arrende**
 
 **Start här:** [`action-plan.sv.md`](action-plan.sv.md)
 
+**Upplägg:** **Modell A** (Johan) — en fastighet + stiftelse/arrende, ingen fastighetsbildning. [`behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md)
+
 **För barnen:** [`info-barn-skyldigheter-fastighet.sv.md`](info-barn-skyldigheter-fastighet.sv.md) — vad ägande innebär (skyldigheter, ladan, Ariel).
 
 **Frågor till Johan:** [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) — kopiera ett meddelande i taget, fyll i **Svar** när han svarat.

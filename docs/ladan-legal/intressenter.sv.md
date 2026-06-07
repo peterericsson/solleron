@@ -26,7 +26,11 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 **Familjebakgrund:** tre barn, **tre mammor**.
 
+**Upplägg:** **Modell A** (Johan — bäst) — en fastighet + stiftelse/arrende, ingen fastighetsbildning.
+
 **Ariels 18-årsdag (lagfart):** **2031-07-25**
+
+---
 
 ## Förmyndare (Ariel)
 
@@ -37,7 +41,7 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 **Fråga att reda ut:** har Ariel **gemensam vårdnad** (då är båda förmyndare enligt lag) eller **ensam vårdnad** hos en?
 
-**Status 2026-05-24:** Johan **återkommer ikväll** efter samtal med **Ariels mamma**. De har **bra kontakt** och träffas ofta — förutsättningar goda för gemensam signering om gemensam vårdnad.
+**Status 2026-06-07:** Frågor **skickade** till Johan (Peter) — vårdnad, mors namn, fastighetsbeteckning, byggnader. **Väntar svar.**
 
 ### Mor också förmyndare — fördelar och nackdelar (i ert upplägg)
 
@@ -70,6 +74,7 @@ Om mor **inte** har vårdnad är hon **inte** förmyndare — då räcker Johan,
 ## Öppet
 
 - [x] Födelsedatum barn — se tabell ovan
-- [ ] **Vårdnad / förmyndare** — efter Johans samtal med Ariels mamma (kväll 2026-05-24)
-- [ ] Ariels **mors namn** (för signaturrad om förmyndare)
+- [ ] **Vårdnad / förmyndare** + Ariels **mors namn** — *skickat 2026-06-07, väntar Johan*
+- [ ] **Fastighetsbeteckning** + kommun — *skickat 2026-06-07, väntar Johan*
+- [ ] **Byggnader** på tomten — *skickat 2026-06-07, väntar Johan*
 - [ ] Johans PNR och adress (signerad version)

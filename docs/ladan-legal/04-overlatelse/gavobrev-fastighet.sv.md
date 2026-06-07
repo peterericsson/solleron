@@ -28,7 +28,7 @@ Adress: [ADRESS]
 Givaren överlåter härmed **som gåva** till mottagarna följande **fasta egendom**:
 
 **Fastighetsbeteckning:** [SOLLERÖ X:Y]  
-**Omfattning:** [HELA FASTIGHETEN / DEL AV — enligt modell A/B]
+**Omfattning:** **Hela fastigheten** (Modell A — ingen fastighetsbildning)
 
 **Taxeringsvärde / uppskattat värde:** [BELOPP] *(underlag för skatt)*
 

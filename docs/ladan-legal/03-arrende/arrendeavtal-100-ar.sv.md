@@ -17,7 +17,7 @@ Arrende om mark (och tillhörande rätt att inneha byggnad **Sollerö Ladan**) e
 **Areal:** ca [X] m²  
 **Avgränsning:** se [`../05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md)
 
-Byggnaden [ägs av stiftelsen / ingår i arrendet enligt modell A/B].
+Byggnaden ** ingår i stiftelsens rätt** enligt **Modell A** (arrende + avtal; byggnaden doneras/upplåts stiftelsen — formulering enligt G1).
 
 ---
 

@@ -14,7 +14,7 @@ Fyll i och bifoga när ni skickar dokument för **G0**, **G1** eller **G2** (se 
 - [ ] **Modell B:** **Fastighetsbildning** — lada/mark till stiftelsen, övrigt till barnen
 - [ ] **Modell C:** Annat (beskriv): _______________
 
-**Motivering (Modell A):** Lada och bostad på samma lagfarda fastighet. Stiftelse med arrende på ladans mark; ladabyggnad enligt utkast. Enklast/billigast; inskrivet arrende + G1-granskning. Se [`01-fastighetsbildning/behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md).
+**Motivering (Modell A):** Johan har valt Modell A som **bäst** (L-00, 2026-05-24). Lada och bostad på samma lagfarda fastighet. Stiftelse med arrende på ladans mark; ladabyggnad enligt avtal. Inget Lantmäteriet för fastighetsbildning. Jurist bekräftar vid G0/G1. Se [`01-fastighetsbildning/behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md).
 
 ---
 

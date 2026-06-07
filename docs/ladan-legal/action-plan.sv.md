@@ -1,7 +1,9 @@
 # Action plan — Sollerö Ladan (stiftelse och juridisk struktur)
 
 **Status:** Utkast / planeringsdokument  
-**Senast uppdaterad:** 2026-05-24 (DIY + jurist granskar)  
+**Senast uppdaterad:** 2026-05-24 (Modell A — Johans val)
+
+**Valt upplägg:** **Modell A** — en fastighet till barnen; stiftelse med **100-års arrende** på ladans mark; **ingen fastighetsbildning** hos Lantmäteriet. Bekräftat av **Johan Rabén** (L-00). Se [`01-fastighetsbildning/behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md).  
 **Mål:** Sätta ihop alla juridiska dokument och starta en stiftelse för Sollerö Ladan, samtidigt som mark och övriga byggnader överlåts till Johans barn med livslång nyttjanderätt/hyresrätt för Johan.
 
 **Viktigt:** Detta är **inte juridisk rådgivning**. Alla dokument i denna mapp är **utkast och arbetsmaterial** tills de granskats och godkänts vid **granskningspass** (jurist) och **myndighetsregistrering** där det krävs.
@@ -79,7 +81,7 @@ Ordningen är avgörande. **Gör inte gåva/lagfart före** fastighetsbildning o
 
 ```mermaid
 flowchart TD
-  A[Fas 0: Inventering och upplägg] --> B[Fas 1: Fastighetsbildning om behövs]
+  A[Fas 0: Inventering] --> B[Fas 1: Hoppas över — Modell A]
   B --> C[Fas 2: Utkast stiftelse]
   C --> D[Fas 3: Utkast arrende]
   D --> E[Fas 4: Utkast överlåtelse]
@@ -95,37 +97,36 @@ flowchart TD
 |------|-----------|--------|----------|
 | 0.1 | Samla **lagfartsbevis**, **taxeringsuppgifter**, **bygglov**, **försäkringsbrev** | Johan / kollega | Mapp (fysisk + digital) |
 | 0.2 | Läs **stiftelse + fastighet** (officiella källor i [`arbetssatt-sjalv-beta-granskning.sv.md`](arbetssatt-sjalv-beta-granskning.sv.md)) | Kollega | Anteckningar |
-| 0.3 | Välj **modell A eller B** (en fastighet + arrende *eller* fastighetsbildning) | Familjen | Markerat i [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md) |
-| 0.4 | Fyll i [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) | Alla parter | Komplett fakta |
-| 0.5 | Beslut: behövs **Lantmäteriet**? Fyll [`01-fastighetsbildning/behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md) | Kollega | Ja/nej + motivering |
-| 0.6 | **(Valfritt) G0** — skicka upplägg till jurist för snabb koll innan Lantmäteriet | Johan | Svar dokumenterat |
+| 0.3 | ~~Välj modell A eller B~~ → **Modell A** (Johan) | Johan | [`behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md) |
+| 0.4 | Fyll i [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) | Alla parter | Pågår |
+| 0.5 | ~~Lantmäteriet?~~ → **Nej** (Modell A) | — | Klart |
+| 0.6 | **(Valfritt) G0** — jurist kollar Modell A-upplägg | Johan | Ej påbörjad |
 
 **Exit-kriterium:** Upplägg valt; checklista underlag klar; alla öppna frågor i avsnitt 2 besvarade eller medvetet parkerade.
 
 ---
 
-### Fas 1 — Fastighetsbildning och avgränsning (vecka 4–12, om behövs)
+### Fas 1 — Fastighetsbildning *(hoppas över — Modell A)*
 
-Om lada och bostäder idag ligger på **samma fastighet** behövs ofta **fastighetsbildning** så att:
+**Status:** **Ej aktuell.** Johan har valt **Modell A**: en gemensam fastighet till barnen; stiftelsen får **inskrivet 100-års arrende** på ladans mark. Ladabyggnaden regleras via stiftelse + avtal — **ingen** ansökan om fastighetsbildning hos Lantmäteriet.
 
-- **Fastighet A:** bostadshus + tomten kring dessa (→ ska till barnen)
-- **Fastighet B:** ladans byggnad + minimal nödvändig mark (→ kan doneras till stiftelsen)
-- Alternativt: **en** fastighet till barnen + **arrende** för stiftelsen utan att bryta ut egen fastighet för ladan *(enklare; ofta tillräckligt med inskrivet 100-års arrende)*
+Checklistor i [`01-fastighetsbildning/`](01-fastighetsbildning/) används för **underlag** (kartor, gränser i bilaga), inte för fastighetsbildning.
 
-| Steg | Aktivitet | Myndighet / aktör |
-|------|-----------|-------------------|
-| 1.1 | Ansökan **fastighetsbildning / fastighetsreglering** | Lantmäteriet |
-| 1.2 | Grannsamråd / underrättelse om sökande | Lantmäteriet |
-| 1.3 | **Fastighetsbestämning** och nya beteckningar | Lantmäteriet |
-| 1.4 | Uppdatera **ritningar** och markering på plats | Lantmätare |
+<details>
+<summary>Modell B (ej valt) — referens om upplägg ändras senare</summary>
 
-**Dokument:** se [`01-fastighetsbildning/`](01-fastighetsbildning/) (checklista + ev. underlag).
+Om lada och bostäder skulle delas i **två fastigheter**:
 
-**Exit-kriterium:** Klart vilken fastighet som ägs av vem; ladans mark är entydigt avgränsad i kartor.
+- **Fastighet A:** bostad + tomt → barnen
+- **Fastighet B:** lada + mark → stiftelsen
+
+Kräver Lantmäteriet (veckor/månader). Se [handbok](https://www.lantmateriet.se/sv/fastigheter-och-mark/fastighetsbildning/).
+
+</details>
 
 ---
 
-### Fas 2 — Utkast: stiftelse (vecka 4–10, kan parallellt med fas 1)
+### Fas 2 — Utkast: stiftelse (vecka 4–10)
 
 En **stiftelse** bildas genom **stiftelseförordnande** (skriftligt, undertecknat av stiftare). Stiftelsen blir **juridisk person** först när den **registrerats** hos Länsstyrelsen — det sker i **fas 6**, efter **G1**.
 
@@ -317,11 +318,8 @@ Alla filer är **mallar** ni fyller i själva; status **G1** när redo för juri
 
 1. **Fyll i** [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) tillsammans med Johan och barnen.
 2. **Samla** lagfartsbevis och fastighetsbeteckning → [`01-fastighetsbildning/checklista-underlag.sv.md`](01-fastighetsbildning/checklista-underlag.sv.md).
-3. **Välj modell** A eller B och dokumentera i [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md).
-4. **Börja utkast** i [`02-stiftelse/`](02-stiftelse/) → [`03-arrende/`](03-arrende/) → [`04-overlatelse/`](04-overlatelse/) → [`05-johan-livslang-ratt/`](05-johan-livslang-ratt/).
-5. **Först därefter** — boka jurist för **G1** (hela paketet), inte för att skriva från början.
-
----
+3. **Modell A** bekräftad — hoppa **fas 1** (fastighetsbildning); fyll i utkast **02 → 03 → 04 → 05**
+4. **Först därefter** — boka jurist för **G1** (hela paketet)
 
 ## 9. Relaterade filer i repot
 

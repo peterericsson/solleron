@@ -30,9 +30,9 @@ Stiftelsen får [välj: endast förvalta / även hyra ut / samarbeta med …] i 
 
 ## 4. Stiftelsekapital / egendom
 
-Stiftaren tillför vid bildandet:
+Stiftaren tillför vid bildandet (**Modell A** — ladans mark via **arrende** på barnens fastighet):
 
-- [ ] Fast egendom: byggnad **Sollerö Ladan**, fastighetsbeteckning [X:Y] (om modell B)
+- [x] **Lös egendom / byggnad:** byggnaden **Sollerö Ladan** (upplåts/överlåts stiftelsen enligt avtal; mark via arrende)
 - [ ] Lös egendom: SEK [BELOPP]
 - [ ] Annat: [BESKRIV]
 
