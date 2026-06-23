@@ -1,25 +1,66 @@
-# Stadgar — [STIFTELSENS NAMN]
+# Stadgar — Ladan på Sollerön
 
-**Valfritt** om allt finns i [`stiftelseförordnande.sv.md`](stiftelseforordnande.sv.md). Många små stiftelser behöver endast förordnande.
+**UTKAST — G1**  
+*Samordna med [`syfte-och-stadgar-johan-max-utkast.sv.md`](syfte-och-stadgar-johan-max-utkast.sv.md) (skickad till Johan + Max).*
 
-Om ni använder separata stadgar — fyll i eller radera denna fil.
+---
 
-## 1. Namn och säte
-(Samma som förordnande)
+## § 1 Namn och säte
 
-## 2. Ändamål
-(Samma som förordnande)
+Stiftelsens namn är **Ladan på Sollerön**.
 
-## 3. Styrelse — val, uppdragstid, möten
-- Mandatperiod: [t.ex. 2 år]
-- Styrelsemöte minst [1] gång per år
-- Kallelse, protokoll, jäv
+Stiftelsen har sitt säte i **Mora kommun**.
 
-## 4. Ekonomisk förvaltning
-- Bankkonto, bokföring, årsredovisning om krävs
+---
 
-## 5. Ändring av stadgar / förordnande
-Enligt stiftelselagen — [BESKRIV PROCESS]
+## § 2 Ändamål
 
-## 6. Upplösning
-(Samma som förordnande)
+Stiftelsens ändamål framgår av [`stiftelseforordnande.sv.md`](stiftelseforordnande.sv.md) § 3 och [`stiftelse-syfte-utkast.sv.md`](stiftelse-syfte-utkast.sv.md).
+
+---
+
+## § 3 Styrelse
+
+Styrelsen består av **två (2)** ledamöter: **Johan Rabén** (ordförande) och **Max Brar** (700907-XXXX).
+
+*[Ev. tredje ledamot eller suppleant enligt G1.]*
+
+Styrelsen utser själv efterträdare vid ledighet. Uppdragstid: **tills vidare**.
+
+Styrelsemöte hålls minst **en (1) gång per år**. Protokoll ska föras.
+
+Ledamot med **jäv** deltar inte i beslut där jäv föreligger.
+
+---
+
+## § 4 Firmateckning
+
+Stiftelsen tecknas av **ordföranden ensam**.
+
+---
+
+## § 5 Verksamhet och ekonomi
+
+Styrelsen ansvarar för verksamhet enligt ändamålet. Överskott ska återinvesteras i ändamålet.
+
+Stiftelsen får ta emot gåvor och bidrag. Bokföring och deklaration sköts enligt lag.
+
+---
+
+## § 6 Revisor
+
+Styrelsen bedömer revisionsplikt enligt lag.
+
+---
+
+## § 7 Ändring och upplösning
+
+Ändring av stadgar enligt **stiftelselagen (1994:1220)**.
+
+Upplösning endast om ändamålet blir omöjligt. Kvarvarande tillgångar tillfaller **[MOTTAGARE — G1]**.
+
+---
+
+## § 8 Tillämplig lag
+
+Svensk lag, särskilt stiftelselagen.

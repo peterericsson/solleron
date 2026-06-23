@@ -18,19 +18,17 @@ Detta tillägg hör ihop med [`gavobrev-fastighet.sv.md`](gavobrev-fastighet.sv.
 
 ## 1. Bakgrund
 
-Givaren överlåter fastigheten [FASTIGHETSBETECKNING] till sina barn i **lika andelar** (1/3 var). Ariel är **minderårig**. Huvudgåvobrevet överlåter **nu** [1/3] vardera till de två vuxna barnen. **1/3** reserveras för Ariel enligt detta tillägg.
-
----
+Givaren överlåter fastigheten **Mora Bodarna 108:6** till sina barn i **lika andelar** (1/3 var). Ariel är **minderårig**. Huvudgåvobrevet överlåter **nu** [1/3] vardera till Julia Shantz och Lycke Rabén. **1/3** reserveras för Ariel enligt detta tillägg.
 
 ## 2. Gåva till Ariel vid 18 år
 
-Givaren **förordnar härmed** att följande gåva ska övergå till Ariel Lindell **den dag han fyller 18 år**, det vill säga **2031-07-25**.
+Givaren **förordnar härmed** att följande gåva ska övergå till Ariel Lindell **den dag Ariel fyller 18 år**, det vill säga **2031-07-25**.
 
-**Andel:** **1/3** (en tredjedel) av fastigheten [FASTIGHETSBETECKNING], med samma **undantag** för Sollerö Ladan och stiftelsens arrende som i huvudgåvobrevet.
+**Andel:** **1/3** (en tredjedel) av fastigheten **Mora Bodarna 108:6**, med samma **undantag** för Sollerö Ladan och stiftelsens arrende som i huvudgåvobrevet.
 
-Givaren **förbinder sig** att på Ariels 18-årsdag:
+Givaren **förbinder sig** att på Ariels 18-årsdag (**2031-07-25**):
 
-1. upprätta och underteckna **gåvohandling** för hennes andel, och  
+1. upprätta och underteckna **gåvohandling** för Ariels andel, och  
 2. medverka till **lagfart** i Ariels namn.
 
 ---
@@ -39,9 +37,9 @@ Givaren **förbinder sig** att på Ariels 18-årsdag:
 
 De vuxna syskonen **samtycker** till att Ariels andel (1/3) ska övergå enligt §2 och förbinder sig att:
 
-- **inte försälja, inteckna eller på annat sätt förfoga** över fastigheten på sätt som **försvårar** Ariels framtida andel, utan Ariels **förmyndares** medverkan (tills han fyller 18) och utan skriftligt samtycke från givaren så länge han lever;
-- **medverka** till lagfart och nödvändig **fastighetsreglering** när Ariel Lindell fyller 18, så att **tre lika andelar** (1/3 var) uppnås om det är familjens avsikt;
-- informera Ariel (via förmyndare) om detta tillägg när han är **15 år**, om inte givaren redan gjort det.
+- **inte försälja, inteckna eller på annat sätt förfoga** över fastigheten på sätt som **försvårar** Ariels framtida andel, utan Ariels **förmyndares** medverkan (tills Ariel fyller 18) och utan skriftligt samtycke från givaren så länge givaren lever;
+- **medverka** till lagfart och nödvändig **fastighetsreglering** när Ariel Lindell fyller 18, så att **tre lika andelar** (1/3 var) uppnås;
+- informera Ariel (via förmyndare) om detta tillägg när Ariel är **15 år**, om inte givaren redan gjort det.
 
 ---
 
@@ -63,7 +61,7 @@ Givarens **förpliktelse** enligt §2 ska **fullgöras av dödsboet** i den mån
 
 ## 6. Förmyndare
 
-Ariels **förmyndare** (Johan Rabén / [ANNAN]) undertecknar detta tillägg **för Ariels räkning** som bekräftelse på att gåvan vid 18 är **till Ariels fördel**.
+Ariels **förmyndare** **Johan Rabén** och **Maria Troive Lindell** (731020-XXXX) undertecknar detta tillägg **för Ariels räkning** som bekräftelse på att gåvan vid 18 är **till Ariels fördel**.
 
 ---
 
@@ -78,4 +76,4 @@ Vid granskning: kontrollera att upplägget är **tillräckligt bindande**, om **
 Givare: _________________________  *(Johan Rabén)*  
 Julia Shantz: _________________________  
 Lycke Rabén: _________________________  
-Förmyndare för Ariel Lindell: _________________________
+Förmyndare för Ariel Lindell: _________________________  *(Maria Troive Lindell)*

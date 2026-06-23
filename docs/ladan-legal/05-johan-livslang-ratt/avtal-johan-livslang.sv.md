@@ -2,111 +2,142 @@
 
 **UTKAST — G1 innan undertecknande**
 
-**Avtalstyp (markera en efter familjemöte + G1):**
+---
 
-- [ ] **A — Förvaltnings-/nyttjanderätt** (Johan behåller roll som **hyresvärd** / förvaltare i praktiken)
-- [ ] **B — Hyresavtal** (Johan **hyresgäst** med livslång boenderätt)
-- [ ] **C — Ususfrukt** (om gåva med lagstadgad nyttjanderätt — separat bilaga)
+## Avtalstyp
+
+Familjens utgångspunkt (Johan): Johan ska vara **hyresvärd / förvaltare** livet ut över tomten **utom ladan**.
+
+**Föreslagen typ vid G1:**
+
+- [x] **A — Förvaltnings- och nyttjanderätt** *(rekommenderat utkast)*  
+- [ ] **B — Hyresavtal** (Johan hyresgäst)  
+- [ ] **C — Ususfrukt** vid gåva  
+
+*Jurist väljer/bekräftar formulering vid G1.*
 
 ---
 
 ## Parter
 
-**Ägare:** Julia Shantz och Lycke Rabén (samäganderätt), ägare till [FASTIGHETSBETECKNING]. *(Ariel Lindell tillkommer som ägare vid 18 år enligt tilläggsgåvobrev.)*
+**Ägare:** Julia Shantz (19990715-XXXX) och Lycke Rabén (20070207-XXXX), samägare till fastigheten **Mora Bodarna 108:6**, Mora kommun.
 
-**Förvaltare / nyttjare:** Johan Rabén
+*(Ariel Lindell tillkommer som ägare med 1/3 vid 18 år enligt tilläggsgåvobrev.)*
+
+**Förvaltare / nyttjare:** Johan Rabén [PNR]
 
 ---
 
 ## 1. Syfte
 
-Ägarna överlåter / upplåter härmed till Johan **livslång rätt** att [FÖRVALTA / BEBO / UTHYRA] fastigheten och byggnader därpå **förutom** byggnaden och marken **Sollerö Ladan** (se bilaga).
+Ägarna bekräftar att Johan Rabén ska ha **livslång rätt** att **bo på och förvalta** fastigheten och byggnader därpå **förutom** Sollerö Ladan (se bilaga).
+
+Avtalet reglerar **nyttjande, förvaltning och kostnader** mellan ägarna och Johan under hans livstid.
 
 ---
 
 ## 2. Omfattning
 
-Avtalet gäller:
+Avtalet gäller **hela fastigheten Mora Bodarna 108:6** med följande byggnader:
 
-- [ ] Hela fastigheten [BETECKNING] med alla **bostads- och ekonomibyggnader**
-- [ ] Specifikt: [LISTA BYGGNADER]
+| Byggnad | Omfattas av detta avtal |
+|---------|-------------------------|
+| **Bostadshus** | Ja |
+| **Uthus** | Ja |
+| **Friggebod** | Ja |
+| **Sollerö Ladan** | **Nej** |
 
-**Uttryckligen undantaget:** Sollerö Ladan och mark enligt [`bilaga-avgransning-ladan.sv.md`](bilaga-avgransning-ladan.sv.md), som tillhör [stiftelsen / arrenderas av stiftelsen].
+**Uttryckligen undantaget:** Sollerö Ladan (byggnad och avgränsad mark) enligt [`bilaga-avgransning-ladan.sv.md`](bilaga-avgransning-ladan.sv.md), som tillhör / arrenderas av **stiftelsen Ladan på Sollerön**.
 
----
-
-## 3. Johans rättigheter (vid val A — hyresvärd/förvaltare)
-
-Johan har under sin livstid rätt att:
-
-- [ ] Bo i [ANGIVET HUS]
-- [ ] Förvalta uthyrning och drift av övriga byggnader på fastigheten
-- [ ] Fatta löpande beslut om underhåll som inte kräver styrelse/beslut av ägarna
-- [ ] [ÖVRIGT]
-
-Johan ska **inte** råda över Sollerö Ladan.
+Johan ska **inte** råda över ladbyggnaden eller stiftelsens verksamhet där.
 
 ---
 
-## 4. Johans rättigheter (vid val B — hyresgäst)
+## 3. Johans rättigheter
 
-Johan har som hyresgäst **obegränsad uppsägningstid från hyresgästens sida** och **hyresvärd får inte säga upp** avtalet annat än vid [MYCKET GRAVT BROTT — formulera med G1].
+Under sin **livstid** har Johan rätt att:
 
-Hyra: [0 kr / …] per månad.
+1. **Bo** i bostadshuset på fastigheten.
+2. **Förvalta** fastigheten i praktiken — inklusive uthus och friggebod — som om han vore **hyresvärd** på övriga delar av tomten.
+3. Fatta **löpande beslut** om drift och underhåll som faller inom normal förvaltning, utan att för varje beslut kräva ägarnas godkännande.
+4. **Nyttja** övriga byggnader på fastigheten (uthus, friggebod) för hushållets och gårdens behov.
+
+Johan får **inte** sälja, inteckna eller upplåta **äganderätten** — den tillhör ägarna.
+
+---
+
+## 4. Hyra / ersättning
+
+Johan betalar **ingen hyra** till ägarna för nyttjanderätten enligt detta avtal.
+
+*(Alternativ B: om hyresavtal väljs — hyra 0 kr/månad, obegränsad löptid från Johans sida.)*
 
 ---
 
 ## 5. Kostnader och skötsel (Johan betalar)
 
-**Grundregel:** Johan — som bor på och förvaltar fastigheten — ska **på egen bekostnad** sköta och betala:
+Johan ska **på egen bekostnad** sköta och betala:
 
-- **Fastighetsskatt**
-- **Försäkring** (byggnad och ansvar i den mån fastigheten kräver det)
-- **Löpande underhåll** (normalt skick; t.ex. värme, el och vatten för boendet, planerat underhåll av tak, fasad, dränering och liknande)
+- **Fastighetsskatt** (hela fastigheten, inklusive arrendeobjektet om skatt tas ut gemensamt — intern fördelning med stiftelsen enligt separat överenskommelse vid behov)
+- **Försäkring** för byggnader som omfattas av detta avtal
+- **Löpande underhåll** — värme, el, vatten för boendet; planerat underhåll av tak, fasad, dränering m.m. på **bostadshus, uthus och friggebod**
+- **Drift** av gemensamma anläggningar som **väg, brunn** i den mån de betjänar hela fastigheten *(servitut mot granne — se servitut-utkast)*
 
 Detta gäller **tills**:
 
 1. Johan **avlidit**, eller  
-2. parterna skriftligen **träffar ny överenskommelse** om fördelning (undertecknad av Johan **och samtliga ägare**).
+2. parterna skriftligen **träffar ny överenskommelse** (undertecknad av Johan **och samtliga ägare**).
 
-**Efter** sådan bortgång eller ny överenskommelse gäller vad parterna då avtalat; annars enligt lag och ägarnas ansvar.
+### Större renoveringar
 
-### Praktisk hantering
+Renoveringar **ovan normalt underhåll** kräver **skriftligt godkännande** av ägarna i förväg, om inte ägarna delegerat annat.
 
-| Post | Betalas av (tills vidare) |
-|------|---------------------------|
-| Fastighetsskatt | **Johan** |
-| Försäkring byggnad | **Johan** |
-| Värme, el, vatten (boende) | **Johan** |
-| Löpande underhåll | **Johan** |
-| Större renoveringar (ovan normalt underhåll) | Enligt **skriftligt beslut** Johan + ägarna i förväg |
+### Ladans underhåll
 
-### Juridisk notering
-
-Ägarna (barnen) är **lagfarna ägare** och kan formellt **ansvara** mot **myndigheter och tredje man**. Detta avtal reglerar **vem som betalar och sköter** internt. Om Johan inte fullgör sina åtaganden får ägarna **kräva ersättning** och i nödfall betala själva för att skydda fastigheten.
+Underhåll av **Sollerö Ladan** betalas av **stiftelsen** enligt arrendeavtal — **inte** av Johan enligt detta avtal.
 
 ---
 
-## 6. Vid Johans frånfälle
+## 6. Ägarnas rättigheter
 
-Detta avtal **upphör** vid Johans död. Rätten **övergår inte** till arvingar eller make/maka, om inte [SÄRSKILT VILLKOR].
+Ägarna är **lagfarna ägare** och kan:
 
----
-
-## 7. Försäljning av fastigheten
-
-Om ägarna säljer fastigheten ska köparen **vara bunden** av detta avtal. Ägarna ska **informera** köpare skriftligt före överlåtelse.
+- kräva att Johan **fullgör** sina skyldigheter enligt §5;
+- i **nödfall** betala skatt/underhåll själva och kräva **ersättning** av Johan;
+- efter Johans bortgång eller ny överenskommelse ta över förvaltning enligt lag och samäganderätt.
 
 ---
 
-## 8. Löptid
+## 7. Vid Johans frånfälle
 
-Avtalet gäller från **[DATUM]** tills Johan avlider eller avtalet upphör enligt §6.
+Detta avtal **upphör** vid Johans **död**.
+
+Rätten **övergår inte** till arvingar, make/maka eller sambo.
+
+*Ev. särskilda önskemål — testamente separat; G1.*
+
+---
+
+## 8. Försäljning av fastigheten
+
+Om ägarna säljer fastigheten ska köparen **informeras skriftligt** om detta avtal **före** överlåtelse och vara **bunden** av det under återstående löptid.
+
+Arrendet till stiftelsen **följer fastigheten** och ska inte påverkas av försäljningen.
+
+---
+
+## 9. Löptid
+
+Avtalet gäller från **[DATUM — samma dag som gåvobrev]** tills Johan avlider eller avtalet upphör enligt §7.
 
 ---
 
 **Ort och datum:** _______________
 
-Ägare (Julia Shantz): _________________________  
-Ägare (Lycke Rabén): _________________________  
-Johan Rabén: _________________________
+| | Underskrift |
+|--|-------------|
+| Julia Shantz, ägare | _________________________ |
+| Lycke Rabén, ägare | _________________________ |
+| Johan Rabén, förvaltare/nyttjare | _________________________ |
+
+**Bilaga:** [`bilaga-avgransning-ladan.sv.md`](bilaga-avgransning-ladan.sv.md)

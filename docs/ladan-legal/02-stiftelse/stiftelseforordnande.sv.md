@@ -1,4 +1,4 @@
-# Stiftelseförordnande — [STIFTELSENS NAMN]
+# Stiftelseförordnande — Ladan på Sollerön
 
 **UTKAST — granska vid G1 innan undertecknande**
 
@@ -16,15 +16,19 @@ Stiftelsen bildas härmed genom detta stiftelseförordnande enligt stiftelselage
 
 ## 2. Stiftelsens namn
 
-**[Sollerö Ladan / officiellt registreringsnamn]**
+**Ladan på Sollerön** *(vid registrering Länsstyrelsen kan kräva suffix „stiftelse“ — bekräfta vid G1)*
 
 ---
 
 ## 3. Stiftelsens ändamål
 
-Stiftelsen ska [BESKRIV SYFTE — t.ex. förvalta byggnaden Sollerö Ladan och främja kultur/gemenskap på Sollerön genom …].
+*(UTKAST — Johan + Max finslipar; se [`stiftelse-syfte-utkast.sv.md`](stiftelse-syfte-utkast.sv.md))*
 
-Stiftelsen får [välj: endast förvalta / även hyra ut / samarbeta med …] i den mån det stödjer ändamålet.
+Stiftelsen ska **förvalta byggnaden Sollerö Ladan** och främja **hälsosam vegetarisk matkultur**, **hantverk** (särskilt vävning och textilkonst) samt **möten och utbildning** som stödjer goda samtal om hållbar gemenskap, **generationsöverskridande ansvar** och **lokalt engagemang** på Sollerön.
+
+Verksamheten får omfatta **matlagning och servering** (catering, sammankomster, utbildning), inklusive **servering av vin och öl** när det **stödjer ändamålet**, **förädling** och **försäljning i begränsad omfattning** av **egenodlade** råvaror, samt **sammankomster och kurser** i samverkan med externa arrangörer. Ladan ska kunna erbjuda **övernattning för deltagare** vid evenemang (normalt **ca 10 personer**, teknisk kapacitet **upp till 18 sovplatser**).
+
+Stiftelsen får **anlita uppdragstagare** och ingå avtal som stödjer ändamålet. Stiftelsen får i **begränsad omfattning** tillhandahålla **korttidsboende** när det behövs för stiftelsens ekonomi, men detta ska **inte** vara huvudsyftet. Stiftelsen ska **inte** i första hand bedriva **alkoholpub**, **nattklubb** eller **vinstdrivande festlokal-/nöjesverksamhet**.
 
 ---
 
@@ -36,21 +40,21 @@ Stiftaren tillför vid bildandet (**Modell A** — ladans mark via **arrende** p
 - [ ] Lös egendom: SEK [BELOPP]
 - [ ] Annat: [BESKRIV]
 
-**Värdering / beskrivning:** [KORT]
+**Värdering / beskrivning:** Ladbyggnad Sollerö Ladan + 100-års arrende på mark (Modell A). Kontant kapital: [ev. SEK — fyll i vid behov].
 
 ---
 
 ## 5. Styrelse
 
-Stiftelsen ska ha en styrelse om **[ANTAL, minst 3]** ledamöter.
+Stiftelsen ska ha en styrelse om **[ANTAL]** ledamöter *(Johan + Max = 2; G1 kan rekommendera tredje ledamot eller suppleant)*.
 
 **Första styrelsen utses av stiftaren:**
 
 | Roll | Namn |
 |------|------|
-| Ordförande | |
-| Ledamot | |
-| Ledamot | |
+| Ordförande | **Johan Rabén** |
+| Ledamot | **Max Brar** (700907-XXXX) |
+| Ledamot / suppleant (ev. G1) | |
 | Suppleant (valfritt) | |
 
 Styrelsen utser själv efterträdare vid ledighet enligt [STADGAR / detta förordnande].
@@ -59,7 +63,7 @@ Styrelsen utser själv efterträdare vid ledighet enligt [STADGAR / detta föror
 
 ## 6. Firmateckning
 
-Stiftelsen tecknas av [ORDFÖRANDEN ENSAM / ORDFÖRANDEN OCH EN LEDAMOT I FÖRENING].
+Stiftelsen tecknas av **ordföranden ensam**.
 
 ---
 
@@ -80,7 +84,7 @@ Stiftelsen tecknas av [ORDFÖRANDEN ENSAM / ORDFÖRANDEN OCH EN LEDAMOT I FÖREN
 
 ## 9. Stiftelsens säte
 
-**[ORT, t.ex. Mora kommun]**
+**Mora kommun**
 
 ---
 

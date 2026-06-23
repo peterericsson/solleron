@@ -1,6 +1,6 @@
 # Intressenter — Sollerö Ladan
 
-**Senast uppdaterad:** 2026-05-24 (födelsedatum tillagda)
+**Senast uppdaterad:** 2026-06-07 (fastighet Mora Bodarna 108:6, Maria Troive Lindell)
 
 Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fullständigt PNR på signerade handlingar utanför repo.
 
@@ -13,6 +13,17 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 | **Förvaltare** (bor och sköter tomten) | **Johan Rabén** | Betalar skatt, försäkring, underhåll tills bortgång eller ny överenskommelse |
 | **Givare** (gåvobrev) | Johan Rabén | |
 | **Stiftare** (stiftelse) | Johan Rabén | *(bekräfta om flera stiftare)* |
+
+---
+
+## Stiftelsen — styrelse (L-S04)
+
+| Roll | Namn | Notering |
+|------|------|----------|
+| **Styrelse** | **Johan Rabén** | Ordförande (antagande) |
+| **Styrelse** | **Max Brar** (700907-XXXX) | Finslipar syfte/stadgar med Johan |
+
+*Fullständigt namn på Max behövs för registrering.*
 
 ---
 
@@ -32,16 +43,30 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 ---
 
+## Fastighet
+
+| Uppgift | Värde |
+|---------|-------|
+| **Fastighetsbeteckning** | **Mora Bodarna 108:6** |
+| **Kommun** | Mora kommun |
+| **Byggnader** | Bostadshus, Ladan (Sollerö Ladan), Uthus, Friggebod (1 st) |
+| **Taxeringsvärde** | **1 357 000 kr** (2026-06-23) |
+| **Lån / pantbrev** | ⚠️ **Pantbrev 500 000 kr** (inteckning 2021-10-15, akt D-2021-00462066:2); ev. underliggande lån verifieras (L-F07) |
+| **Granne** | Avstyckad; gemensam **brunn**; gemensam **landremsa** ~2 m |
+
+---
+
 ## Förmyndare (Ariel)
 
-| Namn | Roll |
-|------|------|
-| Johan Rabén | Förmyndare *(pappa)* |
-| [Ariels mor — namn TBD] | Förmyndare *(om gemensam vårdnad / enligt dom)* |
+| Namn | PNR (repo) | Roll |
+|------|------------|------|
+| Johan Rabén | [PNR] | Förmyndare (pappa) |
+| **Maria Troive Lindell** | 731020-XXXX | Förmyndare (mamma) |
 
-**Fråga att reda ut:** har Ariel **gemensam vårdnad** (då är båda förmyndare enligt lag) eller **ensam vårdnad** hos en?
+**Vårdnad:** **Gemensam** (bekräftat Johan, 2026-06-07).  
+**Samtycke:** Maria **ok** med upplägget (Julia + Lycke nu, Ariel 1/3 vid 18).
 
-**Status 2026-06-07:** Frågor **skickade** till Johan (Peter) — vårdnad, mors namn, fastighetsbeteckning, byggnader. **Väntar svar.**
+*Namn enligt Johan: „Maria Troive/Lindell“.*
 
 ### Mor också förmyndare — fördelar och nackdelar (i ert upplägg)
 
@@ -73,8 +98,11 @@ Om mor **inte** har vårdnad är hon **inte** förmyndare — då räcker Johan,
 
 ## Öppet
 
-- [x] Födelsedatum barn — se tabell ovan
-- [ ] **Vårdnad / förmyndare** + Ariels **mors namn** — *skickat 2026-06-07, väntar Johan*
-- [ ] **Fastighetsbeteckning** + kommun — *skickat 2026-06-07, väntar Johan*
-- [ ] **Byggnader** på tomten — *skickat 2026-06-07, väntar Johan*
+- [x] Födelsedatum barn
+- [x] **Vårdnad / förmyndare** — gemensam; Johan + Maria Troive Lindell
+- [x] **Fastighetsbeteckning** — Mora Bodarna 108:6, Mora kommun
+- [x] **Byggnader** — bostadshus, ladan, uthus, friggebod
+- [x] **Styrelse** — Johan + Max (efternamn saknas)
 - [ ] Johans PNR och adress (signerad version)
+- [x] **Max Brar** — 700907-XXXX (styrelse)
+- [ ] Maria fullständigt PNR (signerad version)
