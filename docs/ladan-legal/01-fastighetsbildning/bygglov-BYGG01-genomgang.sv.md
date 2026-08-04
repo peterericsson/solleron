@@ -6,6 +6,8 @@
 
 **Viktigt:** **Johan** ska logga in (ägare). Du kan sitta med och guida — eller förhandsgranska flödet. **Skicka inte** ansökan förrän syfte/användning är klart.
 
+**Fjärr / WhatsApp (Johan på telefon):** [`bygglov-BYGG01-whatsapp-guide.sv.md`](bygglov-BYGG01-whatsapp-guide.sv.md).
+
 ---
 
 ## Innan ni börjar — ha till hands
@@ -54,7 +56,9 @@ Fyll i ungefär så här (justera efter syfte):
 
 **Kort beskrivning** *(kopiera från [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md)):*
 
-> Ändrad användning av befintlig ladbyggnad (Sollerö Ladan). Ingen tillbyggnad. Ny användning: måltids-/utbildningslokal (vegetarisk mat, catering, kurser), textilhantverk, förädling/försäljning egenodlade råvaror. Servering vin/öl i samband med måltider/evenemang. Övernattning vid event: sovsal 8 bäddar, 4 gästrum, 1 behandlingsrum (sov) — max ca 18 sovplatser, normal drift ca 10 gäster. Stiftelsen „Ladan på Sollerön“; mark via arrende.
+> Ändrad användning av befintlig ladbyggnad (Sollerö Ladan). Ingen tillbyggnad. Ny användning: måltids-/utbildningslokal (vegetarisk mat, kurser), hantverk, förädling och handel med lokala produkter och råvaror, sammankomster med externa arrangörer. Verksamhet: Stiftelsen Omskapa Världen; mark via arrende.
+
+*(Om övernattning eller alkoholservering fortfarande planeras — lägg till det **explicit** i ansökan även om det inte står i stadgarna. Se [`../02-stiftelse/stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md).)*
 
 **Nuvarande → ny användning:**
 

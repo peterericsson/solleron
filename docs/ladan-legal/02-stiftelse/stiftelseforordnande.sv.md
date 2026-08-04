@@ -1,6 +1,7 @@
-# Stiftelseförordnande — Ladan på Sollerön
+# Stiftelseförordnande — Stiftelsen Omskapa Världen
 
-**UTKAST — granska vid G1 innan undertecknande**
+**UTKAST — granska vid G1 innan undertecknande**  
+*Ändamål synkat med Johan + Max 2026-08-03 — se [`stiftelse-syfte-utkast.sv.md`](stiftelse-syfte-utkast.sv.md).*
 
 Stiftelsen bildas härmed genom detta stiftelseförordnande enligt stiftelselagen (1994:1220).
 
@@ -16,19 +17,19 @@ Stiftelsen bildas härmed genom detta stiftelseförordnande enligt stiftelselage
 
 ## 2. Stiftelsens namn
 
-**Ladan på Sollerön** *(vid registrering Länsstyrelsen kan kräva suffix „stiftelse“ — bekräfta vid G1)*
+**Stiftelsen Omskapa Världen**
 
 ---
 
 ## 3. Stiftelsens ändamål
 
-*(UTKAST — Johan + Max finslipar; se [`stiftelse-syfte-utkast.sv.md`](stiftelse-syfte-utkast.sv.md))*
+Stiftelsen ska **förvalta byggnaden Sollerö Ladan** och främja **hälsosam vegetarisk matkultur**, **hantverk** samt **möten och utbildning** som stödjer goda samtal om hållbar gemenskap, **generationsöverskridande ansvar** och **lokalt engagemang** på Sollerön.
 
-Stiftelsen ska **förvalta byggnaden Sollerö Ladan** och främja **hälsosam vegetarisk matkultur**, **hantverk** (särskilt vävning och textilkonst) samt **möten och utbildning** som stödjer goda samtal om hållbar gemenskap, **generationsöverskridande ansvar** och **lokalt engagemang** på Sollerön.
+Verksamheten får omfatta **matlagning och servering** (sammankomster, utbildning), **förädling och handel med lokala produkter och råvaror**, samt **sammankomster och kurser** i samverkan med externa arrangörer. Stiftelsen får **anlita uppdragstagare** och ingå avtal som stödjer ändamålet.
 
-Verksamheten får omfatta **matlagning och servering** (catering, sammankomster, utbildning), inklusive **servering av vin och öl** när det **stödjer ändamålet**, **förädling** och **försäljning i begränsad omfattning** av **egenodlade** råvaror, samt **sammankomster och kurser** i samverkan med externa arrangörer. Ladan ska kunna erbjuda **övernattning för deltagare** vid evenemang (normalt **ca 10 personer**, teknisk kapacitet **upp till 18 sovplatser**).
+Stiftelsen ska **inte** bedriva **alkoholpub**, **nattklubb** eller **vinstdrivande festlokal-/nöjesverksamhet**.
 
-Stiftelsen får **anlita uppdragstagare** och ingå avtal som stödjer ändamålet. Stiftelsen får i **begränsad omfattning** tillhandahålla **korttidsboende** när det behövs för stiftelsens ekonomi, men detta ska **inte** vara huvudsyftet. Stiftelsen ska **inte** i första hand bedriva **alkoholpub**, **nattklubb** eller **vinstdrivande festlokal-/nöjesverksamhet**.
+Eventuellt överskott ska återinvesteras i ändamålet. **Vinst i materialistisk eller kapitalistisk mening är inte ändamålet** med stiftelsen. Vinst får inte delas ut till privatpersoner.
 
 ---
 
@@ -46,7 +47,7 @@ Stiftaren tillför vid bildandet (**Modell A** — ladans mark via **arrende** p
 
 ## 5. Styrelse
 
-Stiftelsen ska ha en styrelse om **[ANTAL]** ledamöter *(Johan + Max = 2; G1 kan rekommendera tredje ledamot eller suppleant)*.
+Stiftelsen ska ha en styrelse om **två (2)** ledamöter.
 
 **Första styrelsen utses av stiftaren:**
 
@@ -54,8 +55,6 @@ Stiftelsen ska ha en styrelse om **[ANTAL]** ledamöter *(Johan + Max = 2; G1 ka
 |------|------|
 | Ordförande | **Johan Rabén** |
 | Ledamot | **Max Brar** (700907-XXXX) |
-| Ledamot / suppleant (ev. G1) | |
-| Suppleant (valfritt) | |
 
 Styrelsen utser själv efterträdare vid ledighet enligt [STADGAR / detta förordnande].
 
@@ -71,7 +70,7 @@ Stiftelsen tecknas av **ordföranden ensam**.
 
 - Stiftelsen får ta emot **gåvor och bidrag**.
 - Överskott ska återinvesteras i ändamålet.
-- [EVENTUELLA INSKRÄNKNINGAR — t.ex. får inte dela ut vinst till privatpersoner]
+- Vinst i materialistisk eller kapitalistisk mening är inte ändamålet; utdelning till privatpersoner får inte ske.
 
 ---
 
@@ -90,13 +89,13 @@ Stiftelsen tecknas av **ordföranden ensam**.
 
 ## 10. Förordnande om varaktighet
 
-Stiftelsen ska bestå **tills vidare**. Upplösning får endast ske om ändamålet blir **omöjligt** att fullgöra; vid upplösning tillfaller kvarvarande tillgångar [BENÄMN MOTTAGARE — t.ex. annan ideell organisation med liknande syfte].
+Stiftelsen ska bestå **tills vidare**. Upplösning får endast ske om ändamålet blir **omöjligt** att fullgöra; vid upplösning tillfaller kvarvarande tillgångar **annan ideell verksamhet eller organisation med liknande syfte**.
 
 ---
 
 ## 11. Övrigt
 
-[ÖVRIGA VILLKOR]
+Stiftelsen strävar efter **win-win-win**-samverkan enligt stadgarna (samarbeten, utbyten och handel där alla parter — inklusive planeten och miljön — i största mån har utbyte).
 
 ---
 

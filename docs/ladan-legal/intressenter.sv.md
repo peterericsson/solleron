@@ -1,6 +1,6 @@
 # Intressenter — Sollerö Ladan
 
-**Senast uppdaterad:** 2026-06-07 (fastighet Mora Bodarna 108:6, Maria Troive Lindell)
+**Senast uppdaterad:** 2026-08-03 (lån, taxering 2025, samtycken)
 
 Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fullständigt PNR på signerade handlingar utanför repo.
 
@@ -20,10 +20,11 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 | Roll | Namn | Notering |
 |------|------|----------|
-| **Styrelse** | **Johan Rabén** | Ordförande (antagande) |
-| **Styrelse** | **Max Brar** (700907-XXXX) | Finslipar syfte/stadgar med Johan |
+| **Namn** | **Stiftelsen Omskapa Världen** | Bekräftat Johan + Max 2026-08 |
+| **Styrelse** | **Johan Rabén** | Ordförande; firmateckning ensam |
+| **Styrelse** | **Max Brar** (700907-XXXX) | Ledamot |
 
-*Fullständigt namn på Max behövs för registrering.*
+*Fullständigt namn på Max behövs för registrering. Ingen tredje ledamot enligt Johan + Max.*
 
 ---
 
@@ -51,7 +52,7 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 | **Kommun** | Mora kommun |
 | **Byggnader** | Bostadshus, Ladan (Sollerö Ladan), Uthus, Friggebod (1 st) |
 | **Taxeringsvärde** | **1 357 000 kr** (2026-06-23) |
-| **Lån / pantbrev** | ⚠️ **Pantbrev 500 000 kr** (inteckning 2021-10-15, akt D-2021-00462066:2); ev. underliggande lån verifieras (L-F07) |
+| **Lån / pantbrev** | Pantbrev **500 000 kr** (inteckning 2021-10-15); Johan 2026-08: **inga banklån**. Beslut döda/behålla → G1 (L-F07) |
 | **Granne** | Avstyckad; gemensam **brunn**; gemensam **landremsa** ~2 m |
 
 ---
@@ -64,7 +65,7 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 | **Maria Troive Lindell** | 731020-XXXX | Förmyndare (mamma) |
 
 **Vårdnad:** **Gemensam** (bekräftat Johan, 2026-06-07).  
-**Samtycke:** Maria **ok** med upplägget (Julia + Lycke nu, Ariel 1/3 vid 18).
+**Samtycke:** Maria **ok**; Julia och Lycke **ok** (enl. Johan, 2026-08). Skriftligt vid undertecknande efter G1.
 
 *Namn enligt Johan: „Maria Troive/Lindell“.*
 

@@ -11,7 +11,7 @@
 
 *(Vid Ariels 18-årsdag 2031-07-25 tillkommer Ariel Lindell som ägare; arrendet ska då gälla även mot honom/henne i samma omfattning.)*
 
-**Arrendator:** Stiftelsen **Ladan på Sollerön**, organisationsnummer [ORG.NR VID REGISTRERING], genom styrelsen.
+**Arrendator:** **Stiftelsen Omskapa Världen**, organisationsnummer [ORG.NR VID REGISTRERING], genom styrelsen.
 
 ---
 
@@ -110,5 +110,5 @@ Svensk lag. Tvist löses i första hand genom **förhandling**; i andra hand **M
 |--|-------------|
 | Julia Shantz, arrendgivare | _________________________ |
 | Lycke Rabén, arrendgivare | _________________________ |
-| Ladan på Sollerön, genom styrelsen | _________________________ |
+| Stiftelsen Omskapa Världen, genom styrelsen | _________________________ |
 | | *(Johan Rabén, ordförande)* |

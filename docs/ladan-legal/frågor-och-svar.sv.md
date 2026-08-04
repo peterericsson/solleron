@@ -13,7 +13,7 @@ Personnummer: utanför repot eller `[PNR]`.
 
 **Status:** `ej skickad` · `redo att skicka` · `skickad · väntar svar` · `besvarad`
 
-**Just nu:** **Utkastpaket** ifyllt (arrende, gåvobrev, Johans avtal) — se [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md). **L-F03 taxeringsvärde klart: 1 357 000 kr** (2026-06-23). **Kartskiss ladans mark klar** (handskiss [`misc/landskiss.jpeg`](misc/landskiss.jpeg), 2026-06-23). **NY flagga:** ⚠️ **pantbrev 500 000 kr** → inteckning på fastigheten (L-F07). **Väntar:** Johan+Max PDF-kommentarer, **exakt arrendegräns** (meter utåt) + verifiera mått, **ev. lån bakom inteckningen + beslut döda/behålla**.
+**Just nu:** Syfte/stadgar (**Stiftelsen Omskapa Världen**) inarbetade. **L-F03:** taxeringsvärde **1 357 000 kr** = **2025** (senaste). **L-F07:** pantbrev 500 tkr finns, men **inga banklån** (Johan 2026-08). **L-B05:** Julia/Lycke **ok** (enl. Johan); Maria **ok**. **Väntar:** exakt arrendegräns, BYGG 01-svar (övernattning), beslut **döda/behålla** inteckning, skriftligt samtycke vid signering.
 
 ---
 
@@ -89,25 +89,25 @@ Ha en bra dag!
 |----|-------|--------|
 | [L-00](#l-00--bekräfta-upplägg-modell-a) | **Start — bekräfta upplägg (Modell A)** | besvarad |
 | [L-F01](#l-f01--fastighetsbeteckning-och-kommun) | Fastighetsbeteckning och kommun | besvarad |
-| [L-F03](#l-f03--taxeringsvärde--marknadsvärde) | Taxeringsvärde / marknadsvärde | **besvarad** — 1 357 000 kr (2026-06-23) |
+| [L-F03](#l-f03--taxeringsvärde--marknadsvärde) | Taxeringsvärde / marknadsvärde | **besvarad** — 1 357 000 kr (**2025**) |
 | [L-F04](#l-f04--antal-byggnader) | Antal byggnader på tomten | besvarad |
 | [L-F05](#l-f05--lada-och-bostad-samma-fastighet) | Lada och bostad — samma fastighet | besvarad |
 | [L-F06](#l-f06--bygglov--klassificering-lada) | Bygglov / ändrad användning lada | delvis — **verksamhet klar** |
-| [L-F07](#l-f07--inteckningar--servitut) | Inteckningar / servitut / granne | ⚠️ **omprövad** — pantbrev hittat 2026-06-23 |
+| [L-F07](#l-f07--inteckningar--servitut) | Inteckningar / servitut / granne | **besvarad** — pantbrev 500 tkr, **inga banklån** |
 | [L-F08](#l-f08--ändrad-användning-hjälp) | Ändrad användning — action plan | **redo BYGG 01** |
 | [L-B01](#l-b01--antal-barn) | Antal barn | besvarad |
 | [L-B06](#l-b06--ariel-minderårig) | Ariel — gåva vid 18 | besvarad |
 | [L-B02](#l-b02--barnens-namn) | Barnens namn | besvarad |
 | [L-B03](#l-b03--fördelning-ägarandel) | Fördelning ägarandel | besvarad |
 | [L-B04](#l-b04--samägande-eller-lotter) | Samägande (en fastighet) | **antagande** |
-| [L-B05](#l-b05--samtycke-alla-parter) | Samtycke (inkl. 100-års arrende) | delvis |
+| [L-B05](#l-b05--samtycke-alla-parter) | Samtycke (inkl. 100-års arrende) | **besvarad** — barn + Maria ok (enl. Johan); skriftligt vid signering |
 | [L-B07](#l-b07--vårdnad-ariel) | Vårdnad / förmyndare Ariel | besvarad |
 | [L-J01](#l-j01--form-livslång-rätt) | Form för din livslånga rätt | **utkast** |
 | [L-J02](#l-j02--omfattning-nyttjande) | Omfattning (hus / tomt / lada) | **utkast** |
 | [L-J03](#l-j03--underhåll-och-kostnader) | Underhåll och kostnader | besvarad |
 | [L-J04](#l-j04--vid-frånfälle) | Vid frånfälle | **utkast** |
-| [L-S01](#l-s01--stiftelsens-syfte) | Stiftelsens syfte | besvarad — Johan + Max finslipar |
-| [L-S02](#l-s02--stiftelsens-namn) | Stiftelsens officiella namn | besvarad |
+| [L-S01](#l-s01--stiftelsens-syfte) | Stiftelsens syfte | besvarad — inarbetad 2026-08 |
+| [L-S02](#l-s02--stiftelsens-namn) | Stiftelsens officiella namn | besvarad — **Stiftelsen Omskapa Världen** |
 | [L-S03](#l-s03--stiftare) | Stiftare | *(implicit Johan)* |
 | [L-S04](#l-s04--initial-styrelse) | Initial styrelse | besvarad |
 | [L-S05](#l-s05--grunddonation--kapital) | Grunddonation / kapital | **antagande** — ladan + arrende |
@@ -168,14 +168,14 @@ Ja — Johan tycker **Modell A är bäst** och att upplägget ser bra ut (2026-0
 
 ### L-F03 · Taxeringsvärde / marknadsvärde
 
-**Status:** **besvarad** — Johan 2026-06-23
+**Status:** **besvarad** — Johan 2026-06-23 · årtal bekräftat **2026-08**
 
 **Svar:**
 
 - **Taxeringsvärde: 1 357 000 kr** — Johan hittade uppgiften **bland husets papper** (2026-06-23).
+- **Årtal:** det är **2025 års** taxeringsvärde (= **senaste**, bekräftat av Johan 2026-08).
 - *Historik:* Johan försökte tidigare **Skatteverket** (digitalt) — fick **röd text** att värdet inte kunde ges; stod i kö. Numera obehövligt.
 - **Användning:** underlag för **stämpelskatt/lagfart** vid gåvan (förts in i [`04-overlatelse/gavobrev-fastighet.sv.md`](04-overlatelse/gavobrev-fastighet.sv.md)).
-- ⏳ *Att kontrollera (Johan, 2026-06-23):* **årtal** på handlingen — att 1 357 000 kr är **senaste** taxeringsvärdet.
 
 ---
 
@@ -220,35 +220,20 @@ Se [`bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransni
 
 **Saknas fortfarande:** befintligt bygglov/klassificering om dokument finns (begär från miljobygg@mora.se).
 
-**Planerad ny användning:** se L-S06 — **max 18 sovplatser**, normalt **ca 10**; vin/öl vid måltider; Vasaloppet/Siljan kommersiellt (Johan). Text: [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md).
+**Planerad ny användning:** se L-S06 / [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md) (reviderad 2026-08 — mer återhållsam i stadgarna). Kommuntext: [`bygglov-BYGG01-genomgang.sv.md`](../01-fastighetsbildning/bygglov-BYGG01-genomgang.sv.md).
 
 ---
 
 ### L-F07 · Inteckningar / servitut
 
-**Status:** ⚠️ **omprövad — 2026-06-23** (tidigare besvarad 2026-06-08)
+**Status:** **besvarad** — 2026-08 (Johan: **inga banklån**)
 
 **Svar:**
 
-- ⚠️ **PANTBREV HITTAT (2026-06-23):** Johan hittade ett **pantbrev** bland fastighetspapperna. Det **motsäger** det tidigare svaret „inga inteckningar eller pantbrev“ (2026-06-08). Det finns alltså en **inteckning** uttagen på Bodarna 108:6.
-- **Pantbrevets uppgifter** (Lantmäteriet, Fastighetsinskrivning — [`misc/pantbrev.jpeg`](misc/pantbrev.jpeg)):
-
-| Post | Värde |
-|------|-------|
-| **Belopp** | **500 000 kr** |
-| **Typ** | **Skriftligt pantbrev (papper)** — Johan har det fysiskt |
-| **Fastighet** | Mora Bodarna 108:6 ✓ |
-| **Anteckningsdag** | 2021-10-15 |
-| **Aktnummer** | D-2021-00462066:2 |
-
-- **Viktig nyans:** ett pantbrev = bevis på **inteckning**, men **inte automatiskt en skuld**. Det kan vara ett **ägarpantbrev** som ligger oanvänt utan lån, eller pant för ett **lån**. *Att det är ett **papperspantbrev** som Johan **själv har i pärmen** talar starkt för att det är **obelånat** — banker håller normalt datapantbrev själva.*
-- **Johans besked (2026-06-23):** *finns nog inget banklån — ska dubbelkolla.*
-- **Kvar att utreda före gåva/arrende/lagfart:**
-  - ⏳ **Bekräfta att inget lån** är kopplat (Johan kollar). Varför togs inteckningen 2021?
-  - Beslut: **döda inteckningen** före gåvan eller låta den följa med?
-  - Bekräfta mot **Lantmäteriets fastighetsutdrag** att 500 000 kr är **enda** inteckningen.
-- *Varför det spelar roll:* en inteckning **följer fastigheten** vid gåva — Julia/Lycke/Ariel skulle annars överta en belastad fastighet. Påverkar även stiftelsens arrende av ladan.
-- **Granne (oförändrat):** fastigheten **avstyckad**; **gemensam brunn** (olika system); gemensam **landremsa** ~2 m. Dokumentation: [`servitut-utkast.sv.md`](../03-arrende/servitut-utkast.sv.md) — **verifiera** om inskrivet servitut/samfällighet finns.
+- **Pantbrev/inteckning finns:** **500 000 kr** (anteckningsdag 2021-10-15, akt D-2021-00462066:2) — [`misc/pantbrev.jpeg`](misc/pantbrev.jpeg). Skriftligt papperspantbrev som Johan har fysiskt.
+- **Banklån:** **inga** (Johan 2026-08). Inteckningen tolkas som **obelånad** / ägarpantbrev tills G1 ev. föreslår annat.
+- **Kvar till G1 / före gåva:** beslut om inteckningen ska **dödas** eller **följa med** (följer fastigheten oavsett om det finns lån). Bekräfta mot Lantmäteriets fastighetsutdrag att 500 tkr är enda inteckningen.
+- **Granne (oförändrat):** fastigheten **avstyckad**; **gemensam brunn**; gemensam **landremsa** ~2 m — [`servitut-utkast.sv.md`](../03-arrende/servitut-utkast.sv.md).
 
 ---
 
@@ -331,12 +316,13 @@ Tack!
 
 ### L-B05 · Samtycke alla parter
 
-**Status:** delvis — Maria **ok** (2026-06-07); övriga barn/partners ej formellt bekräftade
+**Status:** **besvarad** — Johan 2026-08 (muntligt/via Johan); **skriftligt** vid undertecknande
 
-**Svar (delvis):**
+**Svar:**
 
-- **Maria Troive Lindell** (förmyndare Ariel): **ok** med upplägget efter samtal med Johan
-- Julia, Lycke, ev. partners: *ej dokumenterat än*
+- **Julia och Lycke:** **ok** med upplägget (enl. Johan)
+- **Maria Troive Lindell** (förmyndare Ariel): **ok**
+- *Kvar:* formell **underskrift** på gåvobrev / arrende / Ariel-tillägg vid signering (efter G1) — inte bara muntligt ok
 
 ---
 
@@ -403,19 +389,19 @@ Ja — **Johan** betalar **fastighetsskatt, försäkring och löpande underhåll
 
 ### L-S01 · Stiftelsens syfte
 
-**Status:** **besvarad** — Johan efter samtal · **PDF skickad** — väntar Johan + Max
+**Status:** **besvarad** — Johan + Max (två genomgångar) · **inarbetad 2026-08-03**
 
-**Svar:** [`02-stiftelse/stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md)
+**Svar:** [`02-stiftelse/stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md) · [`syfte-och-stadgar-johan-max-utkast.sv.md`](../02-stiftelse/syfte-och-stadgar-johan-max-utkast.sv.md)
 
-**Kort:** vegetarisk matkultur, textil, utbildning/sammankomster; **vin/öl** när det gagnar syftet; övernattning vid event (**ca 10**, max **18** sovplatser); sporadisk korttidsuthyrning vid behov (helst inte); Vasaloppet/Siljan kommersiellt av Johan — se [`johan-uppdrag-och-granser.sv.md`](../02-stiftelse/johan-uppdrag-och-granser.sv.md).
+**Kort (efter revidering):** vegetarisk matkultur, **hantverk** (ospecificerat), möten/utbildning; **förädling och handel med lokala produkter**; externa uppdragstagare; **inte** festlokal. **Borttaget ur stadgar:** catering, alkohol, övernattning/kapacitet, korttidsuthyrning, Vasaloppet/Siljan. **Tillägg:** win-win-win i samarbeten. **Överskott:** vinst i materialistisk/kapitalistisk mening är inte ändamålet.
 
 ---
 
 ### L-S02 · Stiftelsens officiella namn
 
-**Status:** **besvarad** — Johan efter samtal
+**Status:** **besvarad** — Johan + Max 2026-08
 
-**Svar:** **„Ladan på Sollerön“** *(Länsstyrelsen kan kräva „stiftelse“ i registreringsnamn — G1)*
+**Svar:** **Stiftelsen Omskapa Världen** *(ersätter tidigare arbetsnamn „Ladan på Sollerön“)*
 
 ---
 
@@ -429,16 +415,16 @@ Ja — **Johan** betalar **fastighetsskatt, försäkring och löpande underhåll
 
 ### L-S04 · Initial styrelse
 
-**Status:** **besvarad** — Johan efter samtal
+**Status:** **besvarad** — Johan + Max: **ingen** tredje ledamot
 
 **Svar:**
 
 | Roll | Namn |
 |------|------|
-| Styrelse | **Johan Rabén** + **Max Brar** (700907-XXXX) |
-| Uppgift | Finslipa **syfte**, **stadgar** och mening i texterna |
+| Styrelse | **Johan Rabén** (ordförande) + **Max Brar** (700907-XXXX) |
+| Firmateckning | Ordföranden **ensam** |
 
-*G1:* endast **2** ledamöter — ev. behov av **tredje** ledamot eller suppleant.
+*G1 kan fortfarande flagga praxis om två ledamöter — Johan har sagt nej till tredje.*
 
 ---
 
@@ -452,21 +438,22 @@ Ja — **Johan** betalar **fastighetsskatt, försäkring och löpande underhåll
 
 ### L-S06 · Planerad verksamhet i ladan
 
-**Status:** **besvarad** — Johan efter samtal
+**Status:** **besvarad** — reviderad Johan + Max 2026-08 *(stadgar mer återhållsamma än tidigare driftidéer)*
 
-**Svar:**
+**Svar (det som ska stå i papperen):**
 
 | Verksamhet | Detalj |
 |------------|--------|
-| Mat | Vegetarisk/hälsosam — catering, middagar, utbildning, förädling |
-| Försäljning | **Viss** försäljning av **egenodlade** råvaror |
-| Alkohol | **Vin/öl** vid tillfällen då det **gagnar syftet** (inte pub/festlokal) |
-| Externa | T.ex. yoga — mat, **övernattning** |
-| Övernattning | Vid event/sammankomster — **8** sovsal + **4** rum + **1** behandlingsrum → **max 18** sovplatser; **ca 10** i normal drift |
-| Hantverk | Vävning / textilkonst |
-| Kommersiellt | **Johan:** Vasaloppet, Siljan Runt |
-| Korttidsuthyrning | **Sporadisk** airbnb vid behov — **helst inte** |
-| Syfte (bredare) | Goda samtal, generationer, small town movement |
+| Mat | Vegetarisk/hälsosam — middagar, utbildning (**utan** ordet catering) |
+| Handel | **Förädling och handel med lokala produkter och råvaror** |
+| Hantverk | **Hantverk** (ingen specificering) |
+| Externa | Samverkan med arrangörer; stiftelsen kan **anlita externa uppdragstagare** |
+| Avgränsning | **Inte** alkoholpub, nattklubb, festlokal-/nöjesverksamhet |
+| Samverkan | **Win-win-win** (inkl. planet/miljö) |
+
+**Medvetet borttaget ur stadgar/syfte:** alkohol, övernattning, kapacitetssiffror, korttidsuthyrning, Vasaloppet/Siljan, catering.
+
+*OBS för BYGG 01:* om övernattning/servering **fortfarande** planeras i praktiken måste kommunansökan beskriva det — se syfte-utkast.
 
 Full text: [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md).
 
@@ -620,11 +607,35 @@ Tack!
 
 ---
 
+### 2026-08 — Johan: inga banklån · taxering 2025 · barn + Maria ok
+
+**Källa:** Johan → Peter
+
+**Svar:**
+
+- **Inga banklån** (kopplat till pantbrev 500 tkr) → L-F07 uppdaterad.
+- Taxeringsvärdet **1 357 000 kr** är **2025 års** (= senaste) → L-F03 klar.
+- **Barnen** (Julia/Lycke) **ok** enl. Johan; **Maria ok** → L-B05 (skriftligt vid signering kvar).
+
+**Uppdaterat:** L-F03, L-F07, L-B05, [`gavobrev-fastighet.sv.md`](../04-overlatelse/gavobrev-fastighet.sv.md), [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md), [`intressenter.sv.md`](intressenter.sv.md).
+
+---
+
+### Syfte/stadgar — Johan + Max (2026-08)
+
+**Källa:** Johan → Peter (efter två genomgångar med Max)
+
+**Beslut (urval):** namn **Stiftelsen Omskapa Världen**; bort catering, alkohol, övernattning, Vasaloppet, korttidsboende ur papperen; handel med lokala produkter; win-win-win i stadgar; firmateckning Johan; ingen tredje ledamot; upplösning → annan ideell med liknande syfte.
+
+**Uppdaterat:** [`syfte-och-stadgar-johan-max-utkast.sv.md`](../02-stiftelse/syfte-och-stadgar-johan-max-utkast.sv.md), [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md), [`stiftelseforordnande.sv.md`](../02-stiftelse/stiftelseforordnande.sv.md), [`stadgar.sv.md`](../02-stiftelse/stadgar.sv.md), arrende/gåvobrev/Johans avtal (namn), [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md).
+
+---
+
 ### Syfte/stadgar-PDF skickad till Johan (+ Max)
 
 **Källa:** Peter skickat [`syfte-och-stadgar-johan-max-utkast.sv.md`](../02-stiftelse/syfte-och-stadgar-johan-max-utkast.sv.md) som PDF.
 
-**Väntar:** kommentarer eller godkännande från Johan och Max → uppdatera `stiftelseforordnande.sv.md` + `stadgar.sv.md`.
+**Status:** ~~väntar~~ → **besvarad** (se post ovan 2026-08).
 
 ---
 
@@ -732,17 +743,17 @@ Tack!
 | **Kommun** | **Mora kommun** |
 | **Byggnader** | Bostadshus, Ladan, Uthus, Friggebod (1 st) |
 | **Vårdnad Ariel** | **Gemensam** — Johan Rabén + **Maria Troive Lindell** (731020-XXXX) |
-| **Maria — samtycke** | **Ok** med upplägg (2026-06-07) |
-| **Lån / inteckning / pantbrev** | ⚠️ **Pantbrev 500 000 kr** (inteckning 2021-10-15, akt D-2021-00462066:2) — ev. underliggande lån verifieras (L-F07) |
+| **Maria — samtycke** | **Ok** (bekräftat igen 2026-08; Julia/Lycke ok enl. Johan) |
+| **Lån / inteckning / pantbrev** | Pantbrev **500 000 kr** — **inga banklån** (Johan 2026-08); beslut döda/behålla → G1 |
 | **Granne / gemensamt** | Avstyckad; **gemensam brunn**; **landremsa** ~2 m — verifiera servitut |
 | **Bygglov lada** | **Ändrad användning** ska sökas — Peter hjälper till |
-| **Taxeringsvärde** | **1 357 000 kr** (2026-06-23) |
+| **Taxeringsvärde** | **1 357 000 kr** (**2025** års, senaste) |
 | Lada + bostad samma fastighet | Ja |
-| Stiftelsens namn | |
+| Stiftelsens namn | **Stiftelsen Omskapa Världen** |
 | Stiftare | Johan Rabén |
 | Barn (ägare) | Julia Shantz (19990715-XXXX), Lycke Rabén (20070207-XXXX), Ariel Lindell (20130725-XXXX) |
 | Ariel 18 / lagfart | **2031-07-25** |
-| Vårdnad Ariel | *Väntar efter samtal ikväll* |
+| Vårdnad Ariel | Gemensam — Johan + Maria |
 | Förvaltare | Johan Rabén |
 | Antal barn / fördelning | 3 barn — **1/3 var**; Julia + Lycke nu, Ariel **vid 18** |
 | Johans form (hyra / nyttjanderätt) | Betalar skatt/försäkring/underhåll tills bortgång eller ny överenskommelse |

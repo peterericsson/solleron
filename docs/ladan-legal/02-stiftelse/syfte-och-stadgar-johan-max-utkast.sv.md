@@ -1,50 +1,27 @@
-# Ladan på Sollerön — syfte och stadgar
+# Stiftelsen Omskapa Världen — syfte och stadgar
 
-**UTKAST till granskning**  
-**Datum:** 2026-06-16 *(utkast sammanställt efter Johans svar 2026-06-15)*  
+**UTKAST efter Johan + Max**  
+**Datum:** 2026-08-03 *(reviderat efter Johans svar; tidigare utkast 2026-06-16)*  
 **Till:** Johan Rabén och Max Brar (700907-XXXX)  
-**Status:** `skickad till Johan` — väntar kommentarer från Johan + Max
+**Status:** `besvarad · inarbetad` — Johan + Max har gått igenom underlaget två gånger
 
 *Detta är arbetsmaterial — inte juridisk rådgivning. Texten granskas av jurist (G1) innan undertecknande och registrering.*
 
----
-
-## Så här använder ni dokumentet
-
-1. Läs **Del 1** (vardagsspråk) — stämmer det med er bild?
-2. Justera **Del 2** (ändamål) och **Del 4** (stadgar) direkt i texten eller skriv kommentarer i marginalen på PDF:en.
-3. Skicka tillbaka till Peter när ni är nöjda — eller boka ett kort samtal.
-
-*Frågetecken och [HAKPARENTESER] är medvetet kvar där vi behöver ert besked.*
+**Princip i revideringen (Johan/Max):** ta bort sådant som kan uppfattas som att stiftelsen bildas för **egen vinning** (uthyrning, alkoholservering, personlig kommers). Sådant kan göras i praktiken utan att skylta i stadgarna. **Avgränsning** mot festlokal/nöjesverksamhet **behålls**.
 
 ---
 
 # Del 1 — Syfte i vardagsspråk
 
-**Ladan på Sollerön** ska vara en plats på Sollerön för:
+**Stiftelsen Omskapa Världen** förvaltar bland annat byggnaden **Sollerö Ladan** på Sollerön som plats för:
 
-- **Vegetarisk och hälsosam mat** — catering, slutna middagar, utbildning kring mat, förädling och viss försäljning av **egenodlade** råvaror.
-- **Hantverk**, särskilt **vävning och textilkonst**.
-- **Meningsfulla träffar och utbildning** — goda samtal om hur vi samskapar en bättre värld, hopp för nästa generation, och erfarenheter som kan läras ut till andra (t.ex. lokalt engagemang).
+- **Vegetarisk och hälsosam mat** — slutna middagar, utbildning kring mat, förädling och viss handel med **lokala** produkter och råvaror.
+- **Hantverk**.
+- **Meningsfulla träffar och utbildning** — goda samtal om hur vi samskapar en bättre värld, hopp för nästa generation, och erfarenheter som kan läras ut till andra.
 
-**Vin eller öl** kan serveras vid tillfällen då det **passar måltiden och syftet** — inte som pub eller festlokal.
+**Externa arrangörer** kan samarbeta med stiftelsen.
 
-**Övernattning** erbjuds vid evenemang och sammankomster. I normal drift räknar vi med **cirka 10 personer** åt gången. Ladans kapacitet:
-
-| Utrymme | Kapacitet |
-|---------|-----------|
-| Sovsal | 8 bäddar |
-| Gästrum | 4 rum (enkel eller dubbel) |
-| Behandlingsrum | Kan användas som sovrum (enkel eller dubbel) |
-| **Max sammanlagt** | **18 sovplatser** |
-
-**Externa arrangörer** (t.ex. yoga) kan samarbeta med stiftelsen — ladan kan då tillhandahålla lokaler, mat och övernattning.
-
-**Utanför stiftelsens kärnverksamhet:**
-
-- Johan kan bedriva **kommersiell verksamhet** kopplad till t.ex. **Vasaloppet** och **Siljan Runt** (privat eller via avtal med stiftelsen).
-- Stiftelsen kan i **begränsad omfattning** erbjuda **korttidsboende** (t.ex. sporadisk uthyrning) när det behövs för ekonomin — men det ska **helst inte** vara huvudsaklig inkomstkälla.
-- Stiftelsen kan **anlita uppdragstagare**, inklusive Johan (t.ex. som kock), när det stödjer ändamålet.
+Stiftelsen kan **anlita externa uppdragstagare**.
 
 **Styrelsen** från start: **Johan Rabén** och **Max Brar**.
 
@@ -56,26 +33,24 @@
 
 ### 2.1 Huvudändamål
 
-Stiftelsen ska förvalta byggnaden **Sollerö Ladan** och främja hälsosam vegetarisk matkultur, hantverk (särskilt vävning och textilkonst) samt möten och utbildning som stödjer goda samtal om hållbar gemenskap, generationsöverskridande ansvar och lokalt engagemang på Sollerön.
+Stiftelsen ska förvalta byggnaden **Sollerö Ladan** och främja hälsosam vegetarisk matkultur, hantverk samt möten och utbildning som stödjer goda samtal om hållbar gemenskap, generationsöverskridande ansvar och lokalt engagemang på Sollerön.
 
 ### 2.2 Tillåten verksamhet
 
 Verksamheten får omfatta:
 
-1. Matlagning och servering (catering, sammankomster, utbildning), inklusive servering av vin och öl när det stödjer ändamålet.
-2. Förädling och försäljning i begränsad omfattning av egenodlade råvaror.
+1. Matlagning och servering (sammankomster, utbildning).
+2. Förädling och handel med lokala produkter och råvaror.
 3. Sammankomster och kurser i samverkan med externa arrangörer.
-4. Övernattning för deltagare vid evenemang och sammankomster (normalt cirka 10 personer, teknisk kapacitet upp till 18 sovplatser enligt ladans planlösning).
-5. Anlitande av uppdragstagare och avtal som stödjer ändamålet.
-6. Korttidsboende i begränsad omfattning när det behövs för stiftelsens ekonomi — dock inte som huvudsyfte.
+4. Anlitande av uppdragstagare och avtal som stödjer ändamålet.
 
 ### 2.3 Avgränsning
 
-Stiftelsen ska inte i första hand bedriva alkoholpub, nattklubb eller vinstdrivande festlokal- eller nöjesverksamhet.
+Stiftelsen ska inte bedriva alkoholpub, nattklubb eller vinstdrivande festlokal- eller nöjesverksamhet.
 
 ### 2.4 Överskott
 
-Eventuellt överskott ska återinvesteras i ändamålet. Vinst får inte delas ut till privatpersoner.
+Eventuellt överskott ska återinvesteras i ändamålet. Vinst i materialistisk eller kapitalistisk mening är inte ändamålet med stiftelsen. Vinst får inte delas ut till privatpersoner.
 
 ---
 
@@ -83,14 +58,14 @@ Eventuellt överskott ska återinvesteras i ändamålet. Vinst får inte delas u
 
 | Uppgift | Värde |
 |---------|-------|
-| **Namn** | Ladan på Sollerön |
+| **Namn** | Stiftelsen Omskapa Världen |
 | **Säte** | Mora kommun |
 | **Byggnad** | Sollerö Ladan, fastigheten Mora Bodarna 108:6 |
 | **Mark** | Via långt arrende på barnens fastighet (separat avtal) |
 | **Stiftare** | Johan Rabén |
 | **Varaktighet** | Tills vidare |
 
-*Vid registrering hos Länsstyrelsen kan det officiella namnet behöva innehålla ordet „stiftelse“ (t.ex. „Ladan på Sollerön stiftelse“). Jurist bekräftar vid G1.*
+*Vid registrering hos Länsstyrelsen bekräftas att namnet är tillgängligt och uppfyller formkrav — G1.*
 
 ### Stiftelsekapital vid bildande
 
@@ -107,7 +82,7 @@ Stiftaren tillför vid bildandet:
 
 ## § 1 Namn och säte
 
-Stiftelsens namn är **Ladan på Sollerön**.
+Stiftelsens namn är **Stiftelsen Omskapa Världen**.
 
 Stiftelsen har sitt säte i **Mora kommun**.
 
@@ -130,12 +105,6 @@ Stiftelsen skall ha en styrelse om **två (2)** ledamöter:
 | Ordförande | Johan Rabén |
 | Ledamot | Max Brar |
 
-*[Jurist vid G1 kan rekommendera tredje ledamot eller suppleant — fyll i vid behov:]*
-
-| Roll | Namn |
-|------|------|
-| Ledamot / suppleant | _________________________ |
-
 ### 3.2 Uppdragstid
 
 Styrelseledamöter utses av stiftaren vid bildandet. Därefter utser styrelsen själv efterträdare vid ledighet.
@@ -154,14 +123,11 @@ Kallelse skall ske i god tid. Protokoll skall föras vid styrelsemöten.
 
 Ledamot som har **jäv** i en viss fråga får inte delta i handläggningen av den frågan.
 
-*Exempel: styrelseledamot som ska anlitas som uppdragstagare (t.ex. kock) — beslut fattas utan den ledamots deltagande.*
+*Exempel: styrelseledamot som ska anlitas som uppdragstagare — beslut fattas utan den ledamots deltagande.*
 
 ### 3.5 Firmateckning
 
-Stiftelsen tecknas av **ordföranden ensam**.
-
-*[Alternativ om ni vill kräva två signaturer — stryk ovan och använd:]*
-*Stiftelsen tecknas av ordföranden och en ledamot i förening.*
+Stiftelsen tecknas av **ordföranden ensam** (Johan Rabén).
 
 ---
 
@@ -169,9 +135,11 @@ Stiftelsen tecknas av **ordföranden ensam**.
 
 Styrelsen ansvarar för att verksamheten bedrivs i enlighet med ändamålet.
 
-Lokalerna i **Sollerö Ladan** får användas enligt Del 1 och Del 2. Kapacitet för övernattning skall hållas inom ladans tekniska ram (högst 18 sovplatser).
+---
 
-Avtal med externa arrangörer, uppdragstagare och hyresgäster skall dokumenteras och vara förenliga med ändamålet.
+## § 4a Samverkan (win-win-win)
+
+Stiftelsen strävar efter att arbeta med en **win-win-win**-metod i de samarbeten, utbyten och handel stiftelsen har med andra parter. Det vill säga att alla parter — inklusive planeten och miljön — i största mån vinner och har utbyte i samverkan och handel med varandra.
 
 ---
 
@@ -185,7 +153,7 @@ Styrelsen ansvarar för:
 - bokföring enligt gällande regler,
 - årsredovisning och deklaration om lag eller praxis kräver det.
 
-Överskott skall användas för ändamålet. Utbetalning till privatpersoner utöver skälig ersättning för utfört arbete eller avtalad hyra får inte ske.
+Överskott skall användas för ändamålet. Vinst i materialistisk eller kapitalistisk mening är inte ändamålet med stiftelsen. Utbetalning till privatpersoner utöver skälig ersättning för utfört arbete får inte ske.
 
 ---
 
@@ -211,11 +179,7 @@ Stiftelsen skall bestå tills vidare.
 
 Upplösning får endast ske om ändamålet blir omöjligt att fullgöra.
 
-Vid upplösning tillfaller kvarvarande tillgångar:
-
-**[_________________________________]**
-
-*förslag: annan ideell organisation med liknande syfte, eller enligt jurists rekommendation vid G1*
+Vid upplösning tillfaller kvarvarande tillgångar **annan ideell verksamhet eller organisation med liknande syfte**.
 
 ---
 
@@ -227,16 +191,21 @@ För stiftelsen gäller svensk lag, särskilt **stiftelselagen (1994:1220)**.
 
 # Del 5 — Kommentarer och öppna punkter
 
-*Bifogas för er diskussion — ingår normalt inte i signerad version.*
+*Bifogas för dokumentation — ingår normalt inte i signerad version.*
 
-| Punkt | Fråga till er |
-|-------|----------------|
-| Registreringsnamn | „Ladan på Sollerön“ eller „Ladan på Sollerön stiftelse“? |
-| Firmateckning | Ordföranden ensam — eller två signaturer? |
-| Tredje styrelseledamot | Behövs suppleant eller tredje ledamot? |
-| Upplösning — mottagare | Vem ska ärva kvarvarande tillgångar om stiftelsen läggs ned? |
-| Vasaloppet / Siljan Runt | Sker verksamheten i ladan, på tomten, eller annan plats? |
-| Kontant kapital | Ska några kronor sättas in vid start? |
+| Punkt | Beslut (Johan + Max, 2026-08) |
+|-------|-------------------------------|
+| Registreringsnamn | **Stiftelsen Omskapa Världen** |
+| Firmateckning | Ordföranden ensam (**Johan**) |
+| Tredje styrelseledamot | **Nej** |
+| Upplösning — mottagare | Annan ideell verksamhet/organisation med liknande syfte (enligt Del 4) |
+| Vasaloppet / Siljan Runt | **Stryks** ur stiftelsedokumenten |
+| Kontant kapital | [öppet om tillämpligt] |
+
+**G1-flaggor (ej beslutade bort av Johan/Max):**
+
+- Om **övernattning** eller **servering** ändå sker i praktiken kan **bygglov**, **brandskydd**, **livsmedel** och ev. **serveringstillstånd** fortfarande bli aktuella — även om det inte står i stadgarna.
+- Namnbyte från tidigare arbetsnamn „Ladan på Sollerön“ — synka övriga avtal (arrende, gåvobrev).
 
 ---
 
@@ -261,4 +230,4 @@ Max Brar, ledamot
 
 ---
 
-*Utarbetat av Peter/kollega utifrån Johans beskrivningar. Nästa steg: justeringar → jurist (G1) → undertecknande → registrering hos Länsstyrelsen.*
+*Utarbetat utifrån Johans beskrivningar; reviderat 2026-08-03 efter Johan + Max. Nästa steg: synka övriga utkast → jurist (G1) → undertecknande → registrering hos Länsstyrelsen.*

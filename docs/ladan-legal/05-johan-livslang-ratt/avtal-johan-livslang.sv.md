@@ -47,7 +47,7 @@ Avtalet gäller **hela fastigheten Mora Bodarna 108:6** med följande byggnader:
 | **Friggebod** | Ja |
 | **Sollerö Ladan** | **Nej** |
 
-**Uttryckligen undantaget:** Sollerö Ladan (byggnad och avgränsad mark) enligt [`bilaga-avgransning-ladan.sv.md`](bilaga-avgransning-ladan.sv.md), som tillhör / arrenderas av **stiftelsen Ladan på Sollerön**.
+**Uttryckligen undantaget:** Sollerö Ladan (byggnad och avgränsad mark) enligt [`bilaga-avgransning-ladan.sv.md`](bilaga-avgransning-ladan.sv.md), som tillhör / arrenderas av **Stiftelsen Omskapa Världen**.
 
 Johan ska **inte** råda över ladbyggnaden eller stiftelsens verksamhet där.
 

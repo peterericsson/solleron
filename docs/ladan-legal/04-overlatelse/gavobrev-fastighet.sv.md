@@ -36,9 +36,9 @@ Givaren överlåter härmed **som gåva** till mottagarna följande **fasta egen
 | **Kommun** | Mora kommun |
 | **Omfattning** | **Hela fastigheten** inklusive bostadshus, uthus och friggebod |
 
-**Taxeringsvärde / uppskattat värde:** **1 357 000 kr** (2026-06-23) *(underlag för stämpelskatt)*
+**Taxeringsvärde / uppskattat värde:** **1 357 000 kr** (**2025** års taxeringsvärde, bekräftat senaste 2026-08) *(underlag för stämpelskatt)*
 
-> **OBS — inteckning/pantbrev (2026-06-23):** Pantbrev på **500 000 kr** hittat (inteckning 2021-10-15, akt D-2021-00462066:2). En inteckning **följer fastigheten** vid gåva. Klargör ev. underliggande lån **före** undertecknande, samt om inteckningen ska **dödas** eller följa med — mottagarna (Julia/Lycke/Ariel) övertar annars en fastighet med inteckning. Se [`../frågor-och-svar.sv.md`](../frågor-och-svar.sv.md) L-F07.
+> **Inteckning/pantbrev:** Pantbrev **500 000 kr** (2021-10-15, akt D-2021-00462066:2). Johan (2026-08): **inga banklån**. Inteckningen kan ändå **följa** fastigheten vid gåva — G1: besluta **döda** eller **behålla**. Se L-F07.
 
 ---
 
@@ -48,7 +48,7 @@ Gåvan omfattar **inte**:
 
 1. Byggnaden **Sollerö Ladan** och den mark som avgränsas i bilaga [`../05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md).
 
-2. Ladbyggnaden ska tillfalla eller upplåtas **stiftelsen Ladan på Sollerön** enligt separat handling samtidigt med detta gåvobrev.
+2. Ladbyggnaden ska tillfalla eller upplåtas **Stiftelsen Omskapa Världen** enligt separat handling samtidigt med detta gåvobrev.
 
 3. Stiftelsen har **100-årigt arrende** på ladans mark enligt [`../03-arrende/arrendeavtal-100-ar.sv.md`](../03-arrende/arrendeavtal-100-ar.sv.md) daterat **[DATUM]**.
 

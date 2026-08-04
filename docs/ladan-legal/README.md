@@ -1,6 +1,6 @@
 # Sollerö Ladan — juridiska dokument (utkast)
 
-Arbetsmapp för **stiftelse**, **fastighetsöverlåtelse**, **100-års arrende** och **Johans livslånga nyttjanderätt** kring Sollerö Ladan.
+Arbetsmapp för **stiftelse (Stiftelsen Omskapa Världen)**, **fastighetsöverlåtelse**, **100-års arrende** och **Johans livslånga nyttjanderätt** kring Sollerö Ladan.
 
 **Start här:** [`action-plan.sv.md`](action-plan.sv.md)
 

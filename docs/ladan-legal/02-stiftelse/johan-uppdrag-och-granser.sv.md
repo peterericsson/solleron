@@ -1,16 +1,23 @@
 # Johan — privata uppdrag vs stiftelsen
 
 **Status:** **UTKAST — G1**  
-**Källa:** Johan 2026-06-15 + efter samtal
+**Källa:** Johan 2026-06-15 + samtal · **reviderad riktning 2026-08** (Johan + Max)
 
 ---
 
-## Vad Johan sa
+## Vad som gäller i stadgarna nu (2026-08)
+
+Johan + Max vill **inte skylta** med uthyrning, alkohol eller personlig kommers i stiftelsens papper. Sådant som tidigare nämnts (Vasaloppet/Siljan, korttidsboende, vin/öl, övernattning) är **borttaget** ur syfte/stadgar.
+
+**Kvar i papperen:** stiftelsen kan **anlita externa uppdragstagare** (inkl. möjlighet att anlita Johan med jävshantering).
+
+---
+
+## Historik — vad Johan sa tidigare (för G1-kontext)
 
 - Vissa saker **utanför stiftelsen** (privat).
 - Stiftelsen ska kunna **anlita honom** (t.ex. kock).
-- **Kommersiellt av honom** vid **Vasaloppet** och **Siljan Runt**.
-- **Sporadisk** airbnb-liknande uthyrning vid **behov av inkomst** till stiftelsen — **helst inte**.
+- Tidigare nämnt: Vasaloppet/Siljan, sporadisk uthyrning — **stryks ur dokumenten** på Johans begäran (uppfattas som egen vinning).
 
 ---
 
@@ -18,26 +25,20 @@
 
 | Typ | Exempel | Vem |
 |-----|---------|-----|
-| **Stiftelsens kärnverksamhet** | Kurser, middagar, matutbildning, övernattning vid event | **Stiftelsen** |
-| **Anlitad av stiftelsen** | Johan som **kock** vid stiftelsens evenemang | **Uppdragsavtal** — styrelsen beslutar utan jäv |
-| **Johan privat / säsongsvis** | Mat/logi kopplat till **Vasaloppet**, **Siljan Runt** | **Johan personligen** (eller eget bolag) — tydlig gräns mot stiftelsens bokföring |
-| **Korttidsuthyrning** | Sporadisk airbnb vid ekonomiskt behov | **Stiftelsen** — sista utväg; skatteregler + ev. tillstånd |
-| **Servering vin/öl** | Vid måltider som **gagnar syftet** | **Stiftelsen** — serveringstillstånd? (G1 + kommun) |
+| **Stiftelsens kärnverksamhet** | Kurser, middagar, matutbildning, hantverk, handel med lokala produkter | **Stiftelsen** |
+| **Anlitad av stiftelsen** | Johan eller annan som **uppdragstagare** | **Uppdragsavtal** — styrelsen beslutar utan jäv |
+| **Privat verksamhet** | Om Johan driver något privat | **Utanför** stiftelsens papper; om det sker i ladan behövs ändå avtal/G1 |
 
 ---
 
 ## Juridik / G1 (kort)
 
 - Johan är **stiftare** och **styrelseledamot** → **jäv** vid uppdrag till honom.
-- **Vasaloppet/Siljan Runt:** om verksamheten sker **i ladan** på stiftelsens mark (arrende) behövs **hyres-/nyttjanderättsavtal** mellan stiftelsen och Johan/bolag.
-- **Airbnb:** kan påverka **ändrad användning**, **skatt** och **försäkring** — inte huvudsyfte enligt Johan.
-- **Alkohol:** inte festpub — men **vin/öl tillåtet** när det stödjer syftet; kräver ev. **serveringstillstånd** beroende på omfattning.
+- Att något **inte står i stadgarna** tar **inte bort** krav från kommun (bygglov, livsmedel, brand) om verksamheten sker i praktiken.
 
 ---
 
 ## Öppet
 
-- [ ] Johan bekräftar uppdelningen skriftligt
-- [ ] **Max** — fullständigt namn i styrelseuppgifter
-- [ ] Uppdragsavtal-mall (efter stiftelse bildad)
-- [ ] Vasaloppet/Siljan — sker det i **ladan**, på **tomten**, eller annan plats?
+- [x] Johan + Max: stryk Vasaloppet m.m. ur stiftelsedokument (2026-08)
+- [ ] Om verksamhet i ladan sker privat — dokumentera separat vid behov (G1)

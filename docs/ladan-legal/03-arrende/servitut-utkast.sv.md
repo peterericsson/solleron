@@ -8,7 +8,7 @@
 
 | Post | Beskrivning |
 |------|-------------|
-| **Lån / inteckning / pantbrev** | ⚠️ **Pantbrev 500 000 kr** (inteckning 2021-10-15, akt D-2021-00462066:2) — motsäger uppgift 2026-06-08. Ev. underliggande lån **verifieras**. Se L-F07. |
+| **Lån / inteckning / pantbrev** | Pantbrev **500 000 kr** (2021-10-15) — Johan: **inga banklån** (2026-08). G1: döda/behålla. Se L-F07. |
 | **Granne** | Fastigheten **avstyckad** mot granne |
 | **Brunn** | **Gemensam** med granne — **olika system** på varje fastighet |
 | **Landremsa** | Ca **ett par meter** mellan fastigheterna är **gemensam** |
