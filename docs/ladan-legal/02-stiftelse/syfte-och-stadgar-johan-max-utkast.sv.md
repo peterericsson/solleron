@@ -1,9 +1,9 @@
 # Stiftelsen Omskapa Världen — syfte och stadgar
 
 **UTKAST efter Johan + Max**  
-**Datum:** 2026-08-03 *(reviderat efter Johans svar; tidigare utkast 2026-06-16)*  
+**Datum:** 2026-08-17 *(Johan + Max nöjda med reviderat syfte)*  
 **Till:** Johan Rabén och Max Brar (700907-XXXX)  
-**Status:** `besvarad · inarbetad` — Johan + Max har gått igenom underlaget två gånger
+**Status:** `godkänd av Johan + Max` — 2026-08-17
 
 *Detta är arbetsmaterial — inte juridisk rådgivning. Texten granskas av jurist (G1) innan undertecknande och registrering.*
 
@@ -202,10 +202,11 @@ För stiftelsen gäller svensk lag, särskilt **stiftelselagen (1994:1220)**.
 | Vasaloppet / Siljan Runt | **Stryks** ur stiftelsedokumenten |
 | Kontant kapital | [öppet om tillämpligt] |
 
-**G1-flaggor (ej beslutade bort av Johan/Max):**
+**G1-flaggor:**
 
-- Om **övernattning** eller **servering** ändå sker i praktiken kan **bygglov**, **brandskydd**, **livsmedel** och ev. **serveringstillstånd** fortfarande bli aktuella — även om det inte står i stadgarna.
+- **Övernattning:** ska **inte** ske i ladan (Johan 2026-08-17) — BYGG 01 utan sovplatser.
 - Namnbyte från tidigare arbetsnamn „Ladan på Sollerön“ — synka övriga avtal (arrende, gåvobrev).
+- Arrendegräns: fotavtryck + framsida långsida→väg (se bilaga).
 
 ---
 

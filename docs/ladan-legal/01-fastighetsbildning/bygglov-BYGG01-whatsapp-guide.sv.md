@@ -48,7 +48,7 @@ Tips: Om sidan “glömmer” dig — logga in igen; använd **Spara utkast** / 
 - [ ] 6. Kontrollera e-postadress (kommunen svarar dit)  
 - [ ] 7. **Skicka** först när Peter säger att det är ok → BankID igen  
 
-**Skicka inte** om övernattning-frågan fortfarande är öppen och ni är osäkra vad som ska stå.
+**Övernattning:** ska **inte** anges — Johan 2026-08-17: övernattning ska inte kunna ske i ladan.
 
 ---
 
@@ -59,18 +59,13 @@ Tips: Om sidan “glömmer” dig — logga in igen; använd **Spara utkast** / 
 Bodarna 108:6
 ```
 
-### Kort beskrivning (utan övernattning — standard om Johan sagt nej till att skylta det)
+### Kort beskrivning (klistra in — **ingen övernattning**)
 ```text
 Ändrad användning av befintlig ladbyggnad (Sollerö Ladan). Ingen tillbyggnad eller yttre ändring.
 
-Ny användning: samlingslokal och måltids-/utbildningsverksamhet (vegetarisk och hälsosam mat — middagar, matutbildning), förädling och handel med lokala produkter och råvaror, hantverk, kurser och sammankomster med externa arrangörer.
+Ny användning: samlingslokal och måltids-/utbildningsverksamhet (vegetarisk och hälsosam mat — middagar, matutbildning), förädling och handel med lokala produkter och råvaror, hantverk, kurser och sammankomster med externa arrangörer. Ingen övernattning.
 
 Verksamheten bedrivs av Stiftelsen Omskapa Världen; mark via arrende.
-```
-
-### Om Johan bekräftat att övernattning ska anges — lägg till denna mening
-```text
-Övernattning för deltagare vid evenemang kan förekomma enligt ladans befintliga planlösning.
 ```
 
 ---

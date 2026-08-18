@@ -45,7 +45,7 @@ De vuxna syskonen **samtycker** till att Ariels andel (1/3) ska övergå enligt 
 
 ## 4. Förvaltning tills Ariel fyller 18
 
-Ariels framtida andel **ägs inte** av henne före 18-årsdagen. Till dess:
+Ariels framtida andel **ägs inte** av honom före 18-årsdagen. Till dess:
 
 - de vuxna syskonen innehar lagfaren äganderätt enligt huvudgåvobrevet;
 - **givaren** (Johan) förvaltar fastigheten i praktiken enligt [`../05-johan-livslang-ratt/avtal-johan-livslang.sv.md`](../05-johan-livslang-ratt/avtal-johan-livslang.sv.md);

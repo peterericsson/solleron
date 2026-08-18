@@ -13,7 +13,7 @@ Personnummer: utanför repot eller `[PNR]`.
 
 **Status:** `ej skickad` · `redo att skicka` · `skickad · väntar svar` · `besvarad`
 
-**Just nu:** Syfte/stadgar (**Stiftelsen Omskapa Världen**) inarbetade. **L-F03:** taxeringsvärde **1 357 000 kr** = **2025** (senaste). **L-F07:** pantbrev 500 tkr finns, men **inga banklån** (Johan 2026-08). **L-B05:** Julia/Lycke **ok** (enl. Johan); Maria **ok**. **Väntar:** exakt arrendegräns, BYGG 01-svar (övernattning), beslut **döda/behålla** inteckning, skriftligt samtycke vid signering.
+**Just nu:** Syfte/stadgar **godkända** (Johan + Max, 2026-08-17). **Ingen övernattning.** Arrende: fotavtryck + långsida→väg. Taxering 1 357 000 kr (2025). Inga banklån. Barn + Maria ok. **Nästa:** BYGG 01 via WhatsApp **2026-08-18**. Därefter situationsplan + G1.
 
 ---
 
@@ -94,7 +94,7 @@ Ha en bra dag!
 | [L-F05](#l-f05--lada-och-bostad-samma-fastighet) | Lada och bostad — samma fastighet | besvarad |
 | [L-F06](#l-f06--bygglov--klassificering-lada) | Bygglov / ändrad användning lada | delvis — **verksamhet klar** |
 | [L-F07](#l-f07--inteckningar--servitut) | Inteckningar / servitut / granne | **besvarad** — pantbrev 500 tkr, **inga banklån** |
-| [L-F08](#l-f08--ändrad-användning-hjälp) | Ändrad användning — action plan | **redo BYGG 01** |
+| [L-F08](#l-f08--ändrad-användning-hjälp) | Ändrad användning — action plan | **bokat 2026-08-18** WhatsApp |
 | [L-B01](#l-b01--antal-barn) | Antal barn | besvarad |
 | [L-B06](#l-b06--ariel-minderårig) | Ariel — gåva vid 18 | besvarad |
 | [L-B02](#l-b02--barnens-namn) | Barnens namn | besvarad |
@@ -106,7 +106,7 @@ Ha en bra dag!
 | [L-J02](#l-j02--omfattning-nyttjande) | Omfattning (hus / tomt / lada) | **utkast** |
 | [L-J03](#l-j03--underhåll-och-kostnader) | Underhåll och kostnader | besvarad |
 | [L-J04](#l-j04--vid-frånfälle) | Vid frånfälle | **utkast** |
-| [L-S01](#l-s01--stiftelsens-syfte) | Stiftelsens syfte | besvarad — inarbetad 2026-08 |
+| [L-S01](#l-s01--stiftelsens-syfte) | Stiftelsens syfte | **godkänd** — Johan + Max 2026-08-17 |
 | [L-S02](#l-s02--stiftelsens-namn) | Stiftelsens officiella namn | besvarad — **Stiftelsen Omskapa Världen** |
 | [L-S03](#l-s03--stiftare) | Stiftare | *(implicit Johan)* |
 | [L-S04](#l-s04--initial-styrelse) | Initial styrelse | besvarad |
@@ -239,13 +239,13 @@ Se [`bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransni
 
 ### L-F08 · Ändrad användning — hjälp till Johan
 
-**Status:** **redo BYGG 01** — verksamhetsbeskrivning klar (2026-06-15)
+**Status:** **bokat 2026-08-18** — BYGG 01 via WhatsApp (telefon + BankID)
 
-**Svar:** Johan önskar hjälp med **ändrad användning**. Verksamhet beskriven — se L-S01/L-S06.
+**Svar:** Johan önskar hjälp med **ändrad användning**. Verksamhet: L-S01/L-S06. Övernattning ska **inte** kunna ske i ladan. Syfte **godkänt**.
 
-**Nästa steg:** Peter + Johan — [BYGG 01-genomgång](../01-fastighetsbildning/bygglov-BYGG01-genomgang.sv.md) → spara utkast → skicka när bilagor + Johans ok på text.
+**Nästa steg:** Peter + Johan **imorgon (2026-08-18)** — [WhatsApp-guide](../01-fastighetsbildning/bygglov-BYGG01-whatsapp-guide.sv.md). Spara utkast; skicka när text + bilagor stämmer. **Ingen övernattning** i beskrivningen.
 
-**Flaggor för kommun/G1:** övernattning, livsmedelsförsäljning, catering — se syfte-utkast § „Öppet“.
+**Flaggor för kommun/G1:** livsmedel/handel med lokala produkter; **inte** övernattning.
 
 ---
 
@@ -389,7 +389,7 @@ Ja — **Johan** betalar **fastighetsskatt, försäkring och löpande underhåll
 
 ### L-S01 · Stiftelsens syfte
 
-**Status:** **besvarad** — Johan + Max (två genomgångar) · **inarbetad 2026-08-03**
+**Status:** **godkänd** — Johan + Max 2026-08-17 (reviderad PDF)
 
 **Svar:** [`02-stiftelse/stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md) · [`syfte-och-stadgar-johan-max-utkast.sv.md`](../02-stiftelse/syfte-och-stadgar-johan-max-utkast.sv.md)
 
@@ -448,12 +448,12 @@ Ja — **Johan** betalar **fastighetsskatt, försäkring och löpande underhåll
 | Handel | **Förädling och handel med lokala produkter och råvaror** |
 | Hantverk | **Hantverk** (ingen specificering) |
 | Externa | Samverkan med arrangörer; stiftelsen kan **anlita externa uppdragstagare** |
-| Avgränsning | **Inte** alkoholpub, nattklubb, festlokal-/nöjesverksamhet |
+| Avgränsning | **Inte** alkoholpub, nattklubb, festlokal-/nöjesverksamhet; **ingen övernattning** i ladan (Johan 2026-08-17) |
 | Samverkan | **Win-win-win** (inkl. planet/miljö) |
 
 **Medvetet borttaget ur stadgar/syfte:** alkohol, övernattning, kapacitetssiffror, korttidsuthyrning, Vasaloppet/Siljan, catering.
 
-*OBS för BYGG 01:* om övernattning/servering **fortfarande** planeras i praktiken måste kommunansökan beskriva det — se syfte-utkast.
+**BYGG 01:** övernattning ska **inte** anges (Johan 2026-08-17).
 
 Full text: [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md).
 
@@ -579,7 +579,10 @@ Tack!
 - **Ladan (L-form):** lång länga **27 × 7 m** + vinkeldel **5 × 4,5 m** → byggnadsyta **~210 m²**. Ligger i tomtens **nedre högra** del.
 - Två markeringar uppe till höger (litet hus + kvadrat med kryss) — troligen bostadshus/uthus/friggebod.
 
-**Att göra:** verifiera mått mot **Lantmäteriets fastighetskarta**; fastställ **„meter utåt“** kring ladan för arrendegränsen (G1).
+**Att göra:** verifiera mått mot **Lantmäteriets fastighetskarta**; rita situationsplan enligt Johans arrendegräns (fotavtryck + långsida→väg).
+
+**Arrendegräns (Johan 2026-08-17):** framsida (ingång, långsida) **till vägen**; höger, vänster och bakom — **endast där ladan står**.
+
 
 **Uppdaterat:** [`bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md), [`arrendeavtal-100-ar.sv.md`](../03-arrende/arrendeavtal-100-ar.sv.md), [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md).
 
@@ -604,6 +607,30 @@ Tack!
 **Gjort:** [`arrendeavtal-100-ar`](../03-arrende/arrendeavtal-100-ar.sv.md), [`gavobrev-fastighet`](../04-overlatelse/gavobrev-fastighet.sv.md), [`avtal-johan-livslang`](../05-johan-livslang-ratt/avtal-johan-livslang.sv.md), [`stadgar`](../02-stiftelse/stadgar.sv.md), [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md).
 
 **Saknas:** kartskiss ladans mark, taxeringsvärde, datum/signering.
+
+---
+
+### 2026-08-17 — Syfte godkänt · BYGG 01 imorgon
+
+**Källa:** Peter (Johan + Max nöjda med syftet)
+
+- Syfte/stadgar (**Stiftelsen Omskapa Världen**) **godkända**.
+- **BYGG 01** via WhatsApp **2026-08-18** (Johan på telefon + BankID).
+
+**Uppdaterat:** L-S01, L-F08, [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md).
+
+---
+
+### 2026-08-17 — Johan: ingen övernattning · arrendegräns
+
+**Källa:** Johan → Peter
+
+**Svar:**
+
+- Övernattning ska **inte** kunna ske i ladan → BYGG 01 **utan** sovplatser.
+- Arrendet: från ladans **långsida (framsida/ingång) till vägen**. Höger, vänster och bakom: **endast där ladan står**.
+
+**Uppdaterat:** [`bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md), [`arrendeavtal-100-ar.sv.md`](../03-arrende/arrendeavtal-100-ar.sv.md), BYGG 01-guider, [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md).
 
 ---
 

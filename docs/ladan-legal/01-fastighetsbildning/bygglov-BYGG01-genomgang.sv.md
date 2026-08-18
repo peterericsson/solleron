@@ -56,16 +56,16 @@ Fyll i ungefär så här (justera efter syfte):
 
 **Kort beskrivning** *(kopiera från [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md)):*
 
-> Ändrad användning av befintlig ladbyggnad (Sollerö Ladan). Ingen tillbyggnad. Ny användning: måltids-/utbildningslokal (vegetarisk mat, kurser), hantverk, förädling och handel med lokala produkter och råvaror, sammankomster med externa arrangörer. Verksamhet: Stiftelsen Omskapa Världen; mark via arrende.
+> Ändrad användning av befintlig ladbyggnad (Sollerö Ladan). Ingen tillbyggnad. Ny användning: måltids-/utbildningslokal (vegetarisk mat, kurser), hantverk, förädling och handel med lokala produkter och råvaror, sammankomster med externa arrangörer. **Ingen övernattning.** Verksamhet: Stiftelsen Omskapa Världen; mark via arrende.
 
-*(Om övernattning eller alkoholservering fortfarande planeras — lägg till det **explicit** i ansökan även om det inte står i stadgarna. Se [`../02-stiftelse/stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md).)*
+*(Johan 2026-08-17: övernattning ska **inte** kunna ske i ladan — ta **inte** med sovplatser i ansökan.)*
 
 **Nuvarande → ny användning:**
 
 | | |
 |--|--|
 | **Idag (antagande)** | Förvaring / ekonomibyggnad / komplement |
-| **Framöver** | Måltids-/utbildningslokal, hantverk (textil), kurser/sammankomster — se syfte-utkast |
+| **Framöver** | Måltids-/utbildningslokal, hantverk, kurser/sammankomster — **ingen övernattning** |
 
 **Yttre åtgärder:** Nej / inga.
 
@@ -119,5 +119,7 @@ Efter inskick: **diarienummer** kommer — spara i [`bygglov-andrad-anvandning-l
 
 ## Relaterat
 
+- [`bygglov-BYGG01-whatsapp-guide.sv.md`](bygglov-BYGG01-whatsapp-guide.sv.md)  
+- [`situationsplan-hur.sv.md`](situationsplan-hur.sv.md)  
 - [`bygglov-andrad-anvandning-ladan.sv.md`](bygglov-andrad-anvandning-ladan.sv.md)
 - [`../02-stiftelse/stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md)

@@ -1,7 +1,7 @@
 # Stiftelsens syfte — utkast (efter Johan + Max)
 
-**Status:** **UTKAST — G1** — Johan + Max har gått igenom underlaget **två gånger**; ändringar inarbetade **2026-08-03** i [`syfte-och-stadgar-johan-max-utkast.sv.md`](syfte-och-stadgar-johan-max-utkast.sv.md).  
-Samma innehåll ska in i **stiftelseförordnande §3**, **stadgar** och (vid behov) **bygglov** — se flagga nedan.
+**Status:** **UTKAST — G1** — Johan + Max **nöjda med syftet** (2026-08-17). Ändringar inarbetade i [`syfte-och-stadgar-johan-max-utkast.sv.md`](syfte-och-stadgar-johan-max-utkast.sv.md).  
+Samma innehåll ska in i **stiftelseförordnande §3**, **stadgar** och **BYGG 01**.
 
 **Princip (Johan/Max):** ta bort sådant som kan uppfattas som bildande för **egen vinning**. Uthyrning, alkohol och personlig kommers skyltas **inte** i stadgarna. Avgränsning mot **festlokal/nöjesverksamhet** kvar.
 
@@ -52,7 +52,7 @@ Vegetarisk mat, hantverk/textil, möten, vin/öl, övernattning, Vasaloppet/Silj
 
 ## Förslag — bygglov / BYGG 01
 
-*Obs: Johan/Max har **strykt** övernattning och alkohol ur **stadgarna**. Om verksamheten **ändå** inkluderar sovplatser eller servering måste **kommunansökan** beskriva verkligheten — stäm av innan BYGG 01 skickas.*
+**Johan 2026-08-17:** övernattning ska **inte** kunna ske i ladan. Ansökan ska **inte** nämna sovplatser.
 
 ```text
 Ändrad användning av befintlig ladbyggnad (Sollerö Ladan), Bodarna 108/6.
@@ -61,13 +61,11 @@ Ingen tillbyggnad eller yttre ändring.
 Ny användning: samlingslokal och måltids-/utbildningsverksamhet (vegetarisk,
 hälsosam mat — middagar, matutbildning), förädling och handel med lokala
 produkter och råvaror, hantverk, kurser och sammankomster med externa
-arrangörer.
+arrangörer. Ingen övernattning.
 
 Verksamheten bedrivs av Stiftelsen Omskapa Världen; mark via arrende.
 Ingen tillbyggnad.
 ```
-
-*(Lägg till övernattning/servering i texten **endast** om det fortfarande är planerad användning mot kommunen.)*
 
 ---
 
@@ -82,7 +80,7 @@ Ingen tillbyggnad.
 | Ämne | Notering |
 |------|----------|
 | **Namnbyte** | Synka arrende, gåvobrev, Johans avtal: **Stiftelsen Omskapa Världen** |
-| **BYGG 01** | Matcha **verklig** användning (även om stadgarna är mer återhållsamma) |
+| **BYGG 01** | **Ingen övernattning** (Johan 2026-08-17) — text klar |
 | **Win-win-win** | Formulering i stadgar — jurist kan vilja strama till juridiskt språk |
 | **Styrelse 2 personer** | Johan + Max — **nej** till tredje; G1 kan ändå flagga praxis |
 
@@ -92,5 +90,5 @@ Ingen tillbyggnad.
 
 1. ✅ Syfte/stadgar inarbetade efter Johan + Max.  
 2. Synka **stiftelseförordnande**, **stadgar**, **arrende/gåvobrev** (namn).  
-3. **BYGG 01** — uppdatera text och avgör om övernattning ska anges.  
-4. **G1** när utkastpaketet är synkat.
+3. **BYGG 01** — **2026-08-18** med Johan (WhatsApp-guide); text utan övernattning.  
+4. **G1** när utkastpaketet är synkat. Arrendegräns: fotavtryck + framsida till vägen.

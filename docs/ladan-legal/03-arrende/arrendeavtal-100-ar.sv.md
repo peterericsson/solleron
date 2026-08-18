@@ -21,7 +21,7 @@ Arrende om **mark** och **rätt att inneha och nyttja** byggnaden **Sollerö Lad
 
 **Fastighet:** Mora Bodarna 108:6  
 **Byggnad:** Sollerö Ladan (ladbyggnad) — byggnadsyta ca **210 m²** (27×7 + 5×4,5 m enligt handskiss)  
-**Markyta:** ca [X] m² runt ladbyggnaden — *byggnadsyta + tomt; exakt avgränsning enligt kartskiss i bilaga ([`../misc/landskiss.jpeg`](../misc/landskiss.jpeg), 2026-06-23); jurist/G1 bekräftar*
+**Markyta:** ladans **fotavtryck** plus mark på **framsidan** från långsidan (ingång) **till vägen**. Höger, vänster och bakom: **endast** där ladan står. Se bilaga ([`../misc/landskiss.jpeg`](../misc/landskiss.jpeg); Johan 2026-08-17). m² och situationsplan vid G1.
 
 Byggnaden **överlåts eller upplåts** stiftelsen enligt separat handling samtidigt med detta avtal — formulering enligt G1.
 
@@ -47,7 +47,7 @@ Betalas **årligen i förskott** till arrendgivaren eller enligt arrendgivarnas 
 
 ## 4. Arrendatorns rättigheter
 
-Arrendatorn får använda marken och byggnaden för stiftelsens **ändamål** enligt stiftelseförordnande: hälsosam vegetarisk matkultur, hantverk (textil), utbildning och sammankomster, övernattning för deltagare vid evenemang, samt därmed förenlig verksamhet.
+Arrendatorn får använda marken och byggnaden för stiftelsens **ändamål** enligt stiftelseförordnande: hälsosam vegetarisk matkultur, hantverk, utbildning och sammankomster, samt därmed förenlig verksamhet.
 
 Arrendatorn får **underhålla och nödvändigt förbättra** byggnaden efter god sed och gällande bygglov.
 

@@ -1,7 +1,7 @@
 # Bilaga — avgränsning Sollerö Ladan
 
 **Till:** arrendeavtal, gåvobrev, avtal Johan livslång rätt  
-**UTKAST — G1** — *handskiss finns (2026-06-23); exakt arrendegräns bekräftas vid G1*
+**UTKAST — G1** — *handskiss 2026-06-23; arrendegräns enligt Johan 2026-08-17; ritning/mått verifieras vid G1*
 
 ---
 
@@ -50,15 +50,22 @@
 
 **Ladbyggnad** — benämnd **Sollerö Ladan** / **Ladan**
 
-### Markyta
+### Markyta (Johan 2026-08-17)
 
-Mark som **nödvändigt** upptas av ladbyggnaden och **normal tomt kring byggnaden** för stiftelsens verksamhet (gång, uppställning, mindre uteplats), avgränsad enligt:
+Arrendet omfattar **byggnadens fotavtryck** plus **mark på framsidan mot vägen**. Inte en jämn „meter utåt“ runt om.
 
-- [x] **Kartskiss** bifogad — handritad, [`../misc/landskiss.jpeg`](../misc/landskiss.jpeg) (Johan 2026-06-23). *Visar hela tomten med ladan inritad i nedre högra delen.*
-- [ ] Beskrivning: *Från ladans ytterväggar och [X] meter utåt enligt skiss; exklusive bostadshusets tomt och uppfart till bostaden om inte annat framgår av skiss.* — **exakt antal meter sätts vid G1**
+| Sida | Arrende |
+|------|---------|
+| **Framsida** (ingång, ladans **långsida** mot vägen) | Från ladans långsida **fram till vägen** |
+| **Höger** | Endast där **ladan står** (ingen extra mark utanför yttervägg) |
+| **Vänster** | Endast där **ladan står** |
+| **Bakom** ladan | Endast där **ladan står** |
+
+- [x] **Kartskiss** bifogad — [`../misc/landskiss.jpeg`](../misc/landskiss.jpeg) (Johan 2026-06-23). Ladan i tomtens nedre högra del; långsida **27 m** mot nedre gränsen (vägen, **86 m** på skissen).
+- [ ] **Situationsplan** med streckad arrendegräns — se [`../01-fastighetsbildning/situationsplan-hur.sv.md`](../01-fastighetsbildning/situationsplan-hur.sv.md). Rita före G1 (fotavtryck + remsa långsida→väg).
 
 **Byggnadsyta ladan:** ca **210 m²** (27×7 + 5×4,5 enligt skiss).  
-**Uppskattad arrendeyta (byggnad + tomt runt om):** ca [X] m² — *bestäms när „meter utåt“ fastställts; ladan ligger i tomtens nedre högra del.*
+**Arrendeyta:** byggnadsyta + remsa mellan långsida och väg — **m² räknas när remsan mäts** på plats / mot Lantmäteriet.
 
 ### Tillgång väg, el, vatten
 
@@ -83,17 +90,11 @@ Se [`../03-arrende/servitut-utkast.sv.md`](../03-arrende/servitut-utkast.sv.md).
 
 ---
 
-## Ladans inre kapacitet (verksamhet — ej juridisk gräns)
+## Övernattning
 
-| Utrymme | Kapacitet |
-|---------|-----------|
-| Sovsal | 8 bäddar |
-| Gästrum | 4 rum (enkel/dubbel) |
-| Behandlingsrum | Enkel/dubbel som sovrum |
-| **Max sovplatser** | 18 |
-| **Normal drift** | ca 10 personer |
+**Johan 2026-08-17:** övernattning ska **inte** kunna ske i ladan. Gäller **BYGG 01**, stiftelsens användning och detta arrende.
 
-*(För bygglov och stiftelsens ändamål — se stiftelse-syfte-utkast.)*
+*(Äldre kapacitetssiffror — 8 bäddar / 4 rum / max 18 — är **historik**, inte planerad användning.)*
 
 ---
 
