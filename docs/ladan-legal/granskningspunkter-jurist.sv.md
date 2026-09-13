@@ -2,11 +2,12 @@
 
 Fyll i och bifoga när ni skickar dokument för **G0**, **G1** eller **G2** (se [`arbetssatt-sjalv-beta-granskning.sv.md`](arbetssatt-sjalv-beta-granskning.sv.md)).
 
-**Granskningspass:** [ ] G0  [x] **G1**  [ ] G2  [ ] G3  
-**Datum skickat:**  
-**Jurist / granskare:**
+**Granskningspass:** [ ] G0  [x] **G1 genomförd**  [ ] G2  [ ] G3  
+**Datum skickat:** *(paket till jurist — G1)*  
+**G1 klart:** **2026-09-09** (Peter)  
+**Jurist / granskare:** *(fyll i namn om det ska ligga i repo)*
 
-**Obs:** Alla avtal är **utkast**. Personnummer/adresser är platshållare. **Ingen signering** före er återkoppling. BYGG 01 (ändrad användning) körs parallellt 2026-08-18 — ingår inte som undertecknad handling.
+**Obs:** Alla avtal är fortfarande **utkast** tills Fas 6. Personnummer/adresser: se [`intressenter.sv.md`](intressenter.sv.md). **G1** var **muntlig** — inget skriftligt behövs. **BYGG 01 inskickad** 2026-09-09; Mora har inte svarat. **Diarienummer blockerar inte** avtal eller stiftelsebildning.
 
 ---
 
@@ -61,7 +62,7 @@ Fyll i och bifoga när ni skickar dokument för **G0**, **G1** eller **G2** (se 
 3. **Pantbrev 500 000 kr** (inteckning 2021-10-15) — **inga banklån**. Döda före gåva eller låta följa med?  
 4. **Johans livslånga rätt** — bekräfta avtalstyp (utkast A).  
 5. **Ariel (minderårig)** — tilläggsgåva vid 18 (2031-07-25); båda förmyndare ok muntligt. Behövs överförmyndare?  
-6. **Styrelse två personer** (Johan + Max), firmateckning ordförande ensam — ok för Länsstyrelsen?  
+6. **Styrelse två personer** (Johan + Max), firmateckning **båda var för sig** — ok för Länsstyrelsen?  
 7. **Win-win-win** i stadgarna — behåll eller strama åt juridiskt?  
 8. **Signeringsordning** — stämmer förslag: stiftelse → registrering → arrende → gåva + Johans avtal samma dag → lagfart?
 
@@ -78,7 +79,9 @@ Fyll i och bifoga när ni skickar dokument för **G0**, **G1** eller **G2** (se 
 | Johans avtal | | | |
 | Ordning undertecknande | | | |
 
-**Nästa steg enligt jurist:**
+**Nästa steg enligt jurist:** *(muntlig G1 — inget skriftligt)* → Fas 6.
+
+**Status G1:** **genomförd muntligt** 2026-09-09. Inget skriftligt svar ska in i repo.
 
 ---
 

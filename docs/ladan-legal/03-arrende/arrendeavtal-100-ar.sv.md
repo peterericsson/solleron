@@ -7,7 +7,7 @@
 
 ## Parter
 
-**Arrendgivare:** Julia Shantz (19990715-XXXX) och Lycke Rabén (20070207-XXXX), samägare till fastigheten **Mora Bodarna 108:6**, Mora kommun.
+**Arrendgivare:** Julia Shantz (19990715-6120) och Lycke Rabén (20070207-5367), samägare till fastigheten **Mora Bodarna 108:6**, Mora kommun.
 
 *(Vid Ariels 18-årsdag 2031-07-25 tillkommer Ariel Lindell som ägare; arrendet ska då gälla även mot honom/henne i samma omfattning.)*
 

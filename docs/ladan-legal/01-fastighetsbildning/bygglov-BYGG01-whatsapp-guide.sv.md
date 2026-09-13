@@ -1,5 +1,7 @@
 # BYGG 01 — WhatsApp-guide (Johan på telefon)
 
+**Status:** **Inskickad** 2026-09-09. Guiden behålls för komplettering.
+
 **Syfte:** Johan gör ansökan själv från **telefonen** (BankID finns där). Peter guidar via WhatsApp och skickar text att **kopiera/klistra in**.
 
 **E-tjänst:** https://minut.morakommun.se/MOR-BYGG-PBL  

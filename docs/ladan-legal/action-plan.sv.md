@@ -1,7 +1,7 @@
 # Action plan — Sollerö Ladan (stiftelse och juridisk struktur)
 
 **Status:** Utkast / planeringsdokument  
-**Senast uppdaterad:** 2026-05-24 (Modell A — Johans val)
+**Senast uppdaterad:** 2026-09-09 — **G1 genomförd**; **BYGG 01 inskickad**
 
 **Valt upplägg:** **Modell A** — en fastighet till barnen; stiftelse med **100-års arrende** på ladans mark; **ingen fastighetsbildning** hos Lantmäteriet. Bekräftat av **Johan Rabén** (L-00). Se [`01-fastighetsbildning/behov-fastighetsbildning.sv.md`](01-fastighetsbildning/behov-fastighetsbildning.sv.md).  
 **Mål:** Sätta ihop alla juridiska dokument och starta en stiftelse för Sollerö Ladan, samtidigt som mark och övriga byggnader överlåts till Johans barn med livslång nyttjanderätt/hyresrätt för Johan.
@@ -194,12 +194,14 @@ För att ladan ska stå **säkert** på tomten utan att barnen kan säga upp ell
 
 ### Granskningspass G1 — innan något undertecknas
 
-| Steg | Aktivitet |
-|------|-----------|
-| G1.1 | Samla **alla utkast** + ifylld [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md) |
-| G1.2 | Jurist granskar (fast pris / begränsad tid) |
-| G1.3 | Justera markdown-utkast enligt kommentarer |
-| G1.4 | Intern sign-off (Johan + barn) på **slutversion** |
+**Status:** **Genomförd muntligt** 2026-09-09. Inget skriftligt. Därefter Fas 6.
+
+| Steg | Aktivitet | Status |
+|------|-----------|--------|
+| G1.1 | Samla **alla utkast** + ifylld [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md) | ✅ |
+| G1.2 | Jurist granskar (fast pris / begränsad tid) | ✅ 2026-09-09 |
+| G1.3 | Justera markdown-utkast enligt kommentarer | **Ej aktuellt** — G1 var muntlig, inget skriftligt |
+| G1.4 | Intern sign-off (Johan + barn) på **slutversion** | Inför Fas 6 |
 
 **Exit-kriterium:** Juristens “klar för undertecknande” (eller dokumenterad lista ändringar ni accepterat).
 
@@ -277,7 +279,7 @@ Familjens utgångspunkt: Johan ska vara **hyresvärd** livet ut över tomten uto
 
 ## 6. Dokumentindex (markdown-utkast i detta repo)
 
-Alla filer är **mallar** ni fyller i själva; status **G1** när redo för jurist. Se respektive mapp.
+Alla filer är **mallar** ni fyller i själva. **G1 genomförd** 2026-09-09. Se respektive mapp.
 
 | # | Dokument | Mapp | Status |
 |---|----------|------|--------|
@@ -293,7 +295,7 @@ Alla filer är **mallar** ni fyller i själva; status **G1** när redo för juri
 | 9 | Köpebrev (alternativ till gåva) | [`04-overlatelse/kopebrev-fastighet.sv.md`](04-overlatelse/kopebrev-fastighet.sv.md) | Mall |
 | 10 | **Avtal livslång rätt** — Johan | [`05-johan-livslang-ratt/avtal-johan-livslang.sv.md`](05-johan-livslang-ratt/avtal-johan-livslang.sv.md) | Utkast |
 | — | Arbetssätt själv + granskning | [`arbetssatt-sjalv-beta-granskning.sv.md`](arbetssatt-sjalv-beta-granskning.sv.md) | Referens |
-| — | Checklista till jurist | [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md) | Mall |
+| — | Checklista till jurist | [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md) | **G1 genomförd** 2026-09-09 |
 | 11 | Bilaga: avgränsning Sollerö Ladan (karta/ beskrivning) | [`05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md`](05-johan-livslang-ratt/bilaga-avgransning-ladan.sv.md) | Mall |
 | 12 | Register över handlingar & signaturer | [`06-arkiv-och-protokoll/register-handlingar.sv.md`](06-arkiv-och-protokoll/register-handlingar.sv.md) | Mall |
 | 13 | Frågor och svar (levande dokument) | [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) | Pågående |
@@ -316,10 +318,9 @@ Alla filer är **mallar** ni fyller i själva; status **G1** när redo för juri
 
 ## 8. Nästa steg (omedelbart)
 
-1. **Fyll i** [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) tillsammans med Johan och barnen.
-2. **Samla** lagfartsbevis och fastighetsbeteckning → [`01-fastighetsbildning/checklista-underlag.sv.md`](01-fastighetsbildning/checklista-underlag.sv.md).
-3. **Modell A** bekräftad — hoppa **fas 1** (fastighetsbildning); fyll i utkast **02 → 03 → 04 → 05**
-4. **Först därefter** — boka jurist för **G1** (hela paketet)
+1. **Signeringsklart** — [`signeringsklart/README.md`](signeringsklart/README.md).
+3. Signera i ordning: stiftelseförordnande → konstituerande möte → Länsstyrelsen → arrende → gåva + Johans avtal → lagfart. **BYGG 01 / diarienummer blockerar inte.**
+4. När Mora svarar: spara diarienummer och beslut.
 
 ## 9. Relaterade filer i repot
 

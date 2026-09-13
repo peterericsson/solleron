@@ -1,10 +1,12 @@
 # BYGG 01 — genomgång (Mora kommun)
 
+**Status:** **Inskickad** 2026-09-09. Mora har inte svarat. **Diarienummer blockerar inte** avtal eller stiftelse.
+
 **E-tjänst:** [https://minut.morakommun.se/MOR-BYGG-PBL](https://minut.morakommun.se/MOR-BYGG-PBL)  
 **Fastighet:** `Bodarna 108:6` *(skriv **inte** „Mora“ eller „Orsa“ framför)*  
 **Åtgärd:** **Ändring av eller i befintlig byggnad** → väsentlig **ändrad användning** (ladan)
 
-**Viktigt:** **Johan** ska logga in (ägare). Du kan sitta med och guida — eller förhandsgranska flödet. **Skicka inte** ansökan förrän syfte/användning är klart.
+**Viktigt:** **Johan** loggar in (ägare). Ansökan **är skickad** 2026-09-09. Behåll den här guiden för komplettering / Min sida.
 
 **Fjärr / WhatsApp (Johan på telefon):** [`bygglov-BYGG01-whatsapp-guide.sv.md`](bygglov-BYGG01-whatsapp-guide.sv.md).
 
@@ -107,12 +109,12 @@ Efter inskick: **diarienummer** kommer — spara i [`bygglov-andrad-anvandning-l
 
 ## Checklista torrkörning (idag)
 
-- [ ] Johan + du har **30 min** samtidigt (skärmdelning eller samma skärm)
-- [ ] BankID fungerar
-- [ ] Fastighet `Bodarna 108:6` + adress
-- [ ] Valt **ändring i befintlig byggnad**
-- [ ] Text för ny användning klistrad (från syfte-utkast)
-- [ ] **Sparat utkast** — inte skickat om osäkert
+- [x] Johan + du har **30 min** samtidigt (skärmdelning eller samma skärm)
+- [x] BankID fungerar
+- [x] Fastighet `Bodarna 108:6` + adress
+- [x] Valt **ändring i befintlig byggnad**
+- [x] Text för ny användning klistrad (från syfte-utkast)
+- [x] **Ansökan inskickad** — 2026-09-09
 - [ ] Mejlat **miljobygg@mora.se** om gamla ladubygglov? (valfritt parallellt)
 
 ---

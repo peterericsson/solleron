@@ -26,6 +26,5 @@ Arbetsmapp för **stiftelse (Stiftelsen Omskapa Världen)**, **fastighetsöverl�
 ## Viktigt
 
 - Alla `.md`-filer är **mallar och utkast**, inte färdiga juridiska handlingar.
-- **Personnummer och känsliga uppgifter** bör inte committas i klartext — använd platshållare eller separat säker lagring.
-- **Jurist** används för **granskning** (checklista [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md)), inte som huvudförfattare.
-- **Underteckna och registrera** först efter godkänd **G1**-granskning.
+- **Signeringsklart** (färdig markdown, ingen UTKAST): [`signeringsklart/`](signeringsklart/README.md). Firmateckning: Johan och Max **var för sig**.
+- **G1** är **genomförd muntligt** (2026-09-09) — inget skriftligt. **BYGG 01** är **inskickad**; Mora har inte svarat. **Diarienummer behövs inte** för att göra avtalen klara eller bilda stiftelsen.

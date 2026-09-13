@@ -1,6 +1,6 @@
 # Stiftelsens syfte — utkast (efter Johan + Max)
 
-**Status:** **UTKAST — G1** — Johan + Max **nöjda med syftet** (2026-08-17). Ändringar inarbetade i [`syfte-och-stadgar-johan-max-utkast.sv.md`](syfte-och-stadgar-johan-max-utkast.sv.md).  
+**Status:** **UTKAST — efter G1** — Johan + Max **nöjda med syftet** (2026-08-17). **G1** och **BYGG 01** klara 2026-09-09. Ändringar inarbetade i [`syfte-och-stadgar-johan-max-utkast.sv.md`](syfte-och-stadgar-johan-max-utkast.sv.md).  
 Samma innehåll ska in i **stiftelseförordnande §3**, **stadgar** och **BYGG 01**.
 
 **Princip (Johan/Max):** ta bort sådant som kan uppfattas som bildande för **egen vinning**. Uthyrning, alkohol och personlig kommers skyltas **inte** i stadgarna. Avgränsning mot **festlokal/nöjesverksamhet** kvar.
@@ -29,7 +29,7 @@ Vegetarisk mat, hantverk/textil, möten, vin/öl, övernattning, Vasaloppet/Silj
 | Avgränsning | **Inte** festlokal m.m. — utan „i första hand“ |
 | Överskott | Vinst i materialistisk/kapitalistisk mening **är inte** ändamålet |
 | Stadgar | **Win-win-win**-metod (parter inkl. planet/miljö) |
-| Firmateckning | Ordföranden (**Johan**) ensam |
+| Firmateckning | **Johan och Max, var för sig** |
 | Styrelse | Johan + Max — **ingen** tredje ledamot |
 | Upplösning | Annan **ideell** verksamhet/organisation med liknande syfte |
 
@@ -80,15 +80,15 @@ Ingen tillbyggnad.
 | Ämne | Notering |
 |------|----------|
 | **Namnbyte** | Synka arrende, gåvobrev, Johans avtal: **Stiftelsen Omskapa Världen** |
-| **BYGG 01** | **Ingen övernattning** (Johan 2026-08-17) — text klar |
-| **Win-win-win** | Formulering i stadgar — jurist kan vilja strama till juridiskt språk |
-| **Styrelse 2 personer** | Johan + Max — **nej** till tredje; G1 kan ändå flagga praxis |
+| **BYGG 01** | ✅ **inskickad** 2026-09-09 — **Ingen övernattning** |
+| **Win-win-win** | Formulering i stadgar — se ev. juristkommentar efter G1 |
+| **Styrelse 2 personer** | Johan + Max — **nej** till tredje |
 
 ---
 
 ## Nästa steg
 
 1. ✅ Syfte/stadgar inarbetade efter Johan + Max.  
-2. Synka **stiftelseförordnande**, **stadgar**, **arrende/gåvobrev** (namn).  
-3. **BYGG 01** — **2026-08-18** med Johan (WhatsApp-guide); text utan övernattning.  
-4. **G1** när utkastpaketet är synkat. Arrendegräns: fotavtryck + framsida till vägen.
+2. ✅ Synka **stiftelseförordnande**, **stadgar**, **arrende/gåvobrev** (namn).  
+3. ✅ **BYGG 01** inskickad 2026-09-09.  
+4. ✅ **G1** muntlig 2026-09-09 (inget skriftligt). Därefter Fas 6. BYGG 01 väntar på Mora men **blockerar inte**.

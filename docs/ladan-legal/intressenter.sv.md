@@ -1,8 +1,8 @@
 # Intressenter — Sollerö Ladan
 
-**Senast uppdaterad:** 2026-08-03 (lån, taxering 2025, samtycken)
+**Senast uppdaterad:** 2026-09-09 (PNR i avtal; G1 muntlig)
 
-Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fullständigt PNR på signerade handlingar utanför repo.
+Personnummer: **i avtalen**. Klara: Johan, Julia, Lycke, Ariel, Maria, Max. Adress Johan: Budgatu 100, 790 92 Sollerön.
 
 ---
 
@@ -10,7 +10,7 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 | Roll | Namn | Notering |
 |------|------|----------|
-| **Förvaltare** (bor och sköter tomten) | **Johan Rabén** | Betalar skatt, försäkring, underhåll tills bortgång eller ny överenskommelse |
+| **Förvaltare** (bor och sköter tomten) | **Johan Rabén** | 19690310-0292 · Budgatu 100, 790 92 Sollerön |
 | **Givare** (gåvobrev) | Johan Rabén | |
 | **Stiftare** (stiftelse) | Johan Rabén | *(bekräfta om flera stiftare)* |
 
@@ -21,10 +21,10 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 | Roll | Namn | Notering |
 |------|------|----------|
 | **Namn** | **Stiftelsen Omskapa Världen** | Bekräftat Johan + Max 2026-08 |
-| **Styrelse** | **Johan Rabén** | Ordförande; firmateckning ensam |
-| **Styrelse** | **Max Brar** (700907-XXXX) | Ledamot |
+| **Styrelse** | **Johan Rabén** (19690310-0292) | Ordförande; firmateckning **Johan och Max var för sig** |
+| **Styrelse** | **Max Brar** (19700907-2419) | Olsmässgatan 2, 129 44 Hägersten |
 
-*Fullständigt namn på Max behövs för registrering. Ingen tredje ledamot enligt Johan + Max.*
+*Ingen tredje ledamot enligt Johan + Max.*
 
 ---
 
@@ -32,9 +32,9 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 | Namn | Född | PNR (repo) | Ålder (vår 2026) | Gåva |
 |------|------|------------|------------------|------|
-| **Julia Shantz** | 1999-07-15 | 19990715-XXXX | **26** (myndig) | **1/3 nu** |
-| **Lycke Rabén** | 2007-02-07 | 20070207-XXXX | **19** (myndig) | **1/3 nu** |
-| **Ariel Lindell** | 2013-07-25 | 20130725-XXXX | **12** (fyller **13** 2026-07-25) | **1/3 vid 18** → **2031-07-25** |
+| **Julia Shantz** | 1999-07-15 | 19990715-6120 | **26** (myndig) | **1/3 nu** |
+| **Lycke Rabén** | 2007-02-07 | 20070207-5367 | **19** (myndig) | **1/3 nu** |
+| **Ariel Lindell** | 2013-07-25 | 20130725-6898 | **13** | **1/3 vid 18** → **2031-07-25** |
 
 **Familjebakgrund:** tre barn, **tre mammor**.
 
@@ -61,8 +61,8 @@ Personnummer: **endast de fyra första + födelsedatum** i repo (`-XXXX`); fulls
 
 | Namn | PNR (repo) | Roll |
 |------|------------|------|
-| Johan Rabén | [PNR] | Förmyndare (pappa) |
-| **Maria Troive Lindell** | 731020-XXXX | Förmyndare (mamma) |
+| Johan Rabén | 19690310-0292 | Förmyndare (pappa) |
+| **Maria Troive Lindell** | 19731030-8528 | Förmyndare (mamma) |
 
 **Vårdnad:** **Gemensam** (bekräftat Johan, 2026-06-07).  
 **Samtycke:** Maria **ok**; Julia och Lycke **ok** (enl. Johan, 2026-08). Skriftligt vid undertecknande efter G1.
@@ -103,7 +103,10 @@ Om mor **inte** har vårdnad är hon **inte** förmyndare — då räcker Johan,
 - [x] **Vårdnad / förmyndare** — gemensam; Johan + Maria Troive Lindell
 - [x] **Fastighetsbeteckning** — Mora Bodarna 108:6, Mora kommun
 - [x] **Byggnader** — bostadshus, ladan, uthus, friggebod
-- [x] **Styrelse** — Johan + Max (efternamn saknas)
-- [ ] Johans PNR och adress (signerad version)
-- [x] **Max Brar** — 700907-XXXX (styrelse)
-- [ ] Maria fullständigt PNR (signerad version)
+- [x] **Styrelse** — Johan + Max Brar
+- [x] **Johan Rabén** — 19690310-0292 · Budgatu 100, 790 92 Sollerön
+- [x] **Julia Shantz** — 19990715-6120
+- [x] **Max Brar** — 19700907-2419 · Olsmässgatan 2, 129 44 Hägersten
+- [x] **Lycke Rabén** — 20070207-5367
+- [x] **Ariel Lindell** — 20130725-6898
+- [x] **Maria Troive Lindell** — 19731030-8528 *(rättat från fel 731020)*

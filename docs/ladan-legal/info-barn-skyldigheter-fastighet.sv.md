@@ -149,6 +149,6 @@ Att få fastigheten som gåva betyder att ni juridiskt blir ägare — men i vå
 ## Nästa steg i projektet
 
 1. Läs detta tillsammans (pappa + minst de **myndiga** barnen).
-2. Skriv frågor i [`frågor-och-svar.sv.md`](frågor-och-svar.sv.md) under *Anteckningar*.
-3. ~~Besluta **Ariel-alternativ**~~ — **klart:** 1/3 vid 18 (se [`tillagg-gava-ariel-vid-18.sv.md`](04-overlatelse/tillagg-gava-ariel-vid-18.sv.md)).
-4. Fortsätt svara på frågelistan (L-F01, L-B02, …).
+2. ~~Besluta **Ariel-alternativ**~~ — **klart:** 1/3 vid 18 (se [`tillagg-gava-ariel-vid-18.sv.md`](04-overlatelse/tillagg-gava-ariel-vid-18.sv.md)).
+3. ~~**G1** / **BYGG 01**~~ — **klart** 2026-09-09 (G1 muntlig; BYGG 01 inskickad).
+4. **Fas 6:** underteckna enligt [`signeringsklart/README.md`](signeringsklart/README.md). Mora-diarienummer **behövs inte** för det.

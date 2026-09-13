@@ -8,8 +8,8 @@
 ## Givare
 
 **Johan Rabén**  
-Personnummer: [PNR — signerad version]  
-Adress: [ADRESS]
+Personnummer: 19690310-0292  
+Adress: Budgatu 100, 790 92 Sollerön
 
 ---
 
@@ -17,12 +17,12 @@ Adress: [ADRESS]
 
 | Namn | Personnummer | Andel |
 |------|--------------|-------|
-| **Julia Shantz** | 19990715-XXXX | **1/3** |
-| **Lycke Rabén** | 20070207-XXXX | **1/3** |
+| **Julia Shantz** | 19990715-6120 | **1/3** |
+| **Lycke Rabén** | 20070207-5367 | **1/3** |
 
 Mottagarna erhåller gåvan i **samäganderätt** (samäganderättslagen) tills tre lika andelar uppnås vid Ariels 18-årsdag.
 
-**Uppskjuten andel:** **1/3** till **Ariel Lindell** (20130725-XXXX) vid **18 år** enligt [`tillagg-gava-ariel-vid-18.sv.md`](tillagg-gava-ariel-vid-18.sv.md).
+**Uppskjuten andel:** **1/3** till **Ariel Lindell** (20130725-6898) vid **18 år** enligt [`tillagg-gava-ariel-vid-18.sv.md`](tillagg-gava-ariel-vid-18.sv.md).
 
 ---
 

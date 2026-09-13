@@ -75,6 +75,8 @@ Markera tydligt **„UTKAST — Johan godkänner“** i filerna.
 
 ## Snabb status efter parallellt arbete
 
+**Uppdaterat 2026-09-09:** G1 och BYGG 01 är **klara** (se [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md)). Listan nedan är historisk (juni 2026).
+
 | Område | Kan nå ~% klart utan Johan |
 |--------|----------------------------|
 | Fastighetsfakta | **~90%** (taxeringsvärde klart; ⚠️ pantbrev/inteckning återstår att verifiera) |

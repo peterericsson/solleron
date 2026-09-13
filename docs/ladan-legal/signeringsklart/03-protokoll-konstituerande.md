@@ -6,8 +6,8 @@
 
 ## Närvarande
 
-- Johan Rabén (19690310-0292), Budgatu 100, 790 92 Sollerön, ordförande
-- Max Brar (19700907-2419), Olsmässgatan 2, 129 44 Hägersten, ledamot
+- Johan Rabén, 19690310-0292, Budgatu 100, 790 92 Sollerön, ordförande
+- Max Brar, 19700907-2419, Olsmässgatan 2, 129 44 Hägersten, ledamot
 
 ## §1 Stiftelseförordnande
 
@@ -17,8 +17,8 @@ Mötet konstaterar att stiftelseförordnande av dagens datum undertecknats av st
 
 Till styrelse utses enligt förordnandet:
 
-- Ordförande: **Johan Rabén**
-- Ledamot: **Max Brar**
+- Ordförande: **Johan Rabén**, 19690310-0292
+- Ledamot: **Max Brar**, 19700907-2419
 
 Ingen suppleant utses.
 
@@ -42,11 +42,9 @@ Styrelsen bedömer att revisor **inte** utses vid bildandet. Revisionsplikt enli
 
 Styrelsen undertecknar särskilt **förvaltningsåtagande** av dagens datum.
 
----
-
 **Justeras:** _______________
 
-| | Underskrift |
-|--|-------------|
-| Johan Rabén, ordförande | _________________________ |
-| Max Brar, ledamot | _________________________ |
+| | Personnummer | Underskrift |
+|--|--------------|-------------|
+| Johan Rabén, ordförande | 19690310-0292 | _________________________ |
+| Max Brar, ledamot | 19700907-2419 | _________________________ |

@@ -2,7 +2,7 @@
 
 **UTKAST efter Johan + Max**  
 **Datum:** 2026-08-17 *(Johan + Max nöjda med reviderat syfte)*  
-**Till:** Johan Rabén och Max Brar (700907-XXXX)  
+**Till:** Johan Rabén och Max Brar (19700907-2419)  
 **Status:** `godkänd av Johan + Max` — 2026-08-17
 
 *Detta är arbetsmaterial — inte juridisk rådgivning. Texten granskas av jurist (G1) innan undertecknande och registrering.*
@@ -102,8 +102,8 @@ Stiftelsen skall ha en styrelse om **två (2)** ledamöter:
 
 | Roll | Namn |
 |------|------|
-| Ordförande | Johan Rabén |
-| Ledamot | Max Brar |
+| Ordförande | Johan Rabén (19690310-0292), Budgatu 100, 790 92 Sollerön |
+| Ledamot | Max Brar (19700907-2419), Olsmässgatan 2, 129 44 Hägersten |
 
 ### 3.2 Uppdragstid
 
@@ -127,7 +127,7 @@ Ledamot som har **jäv** i en viss fråga får inte delta i handläggningen av d
 
 ### 3.5 Firmateckning
 
-Stiftelsen tecknas av **ordföranden ensam** (Johan Rabén).
+Stiftelsen tecknas av styrelsens båda ledamöter, **Johan Rabén och Max Brar, var för sig**.
 
 ---
 

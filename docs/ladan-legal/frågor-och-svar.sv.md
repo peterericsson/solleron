@@ -9,11 +9,11 @@ Levande dokument. **Arbetssätt:**
 
 **Valt upplägg (projekt):** **[Modell A](01-fastighetsbildning/behov-fastighetsbildning.sv.md)** — bekräftat av **Johan Rabén** (L-00). En fastighet till barnen, stiftelse med långt arrende på ladans mark, **ingen fastighetsbildning**.
 
-Personnummer: utanför repot eller `[PNR]`.
+Personnummer: i avtalen. **Klara.** Därefter **utskrifts-/signeringspaket**.
 
 **Status:** `ej skickad` · `redo att skicka` · `skickad · väntar svar` · `besvarad`
 
-**Just nu:** Syfte/stadgar **godkända** (Johan + Max, 2026-08-17). **Ingen övernattning.** Arrende: fotavtryck + långsida→väg. Taxering 1 357 000 kr (2025). Inga banklån. Barn + Maria ok. **Nästa:** BYGG 01 via WhatsApp **2026-08-18**. Därefter situationsplan + G1.
+**Just nu:** PNR och Johans adress **klara**. **Nästa:** utskrifts-/signeringspaket. G1 muntlig · BYGG 01 inskickad.
 
 ---
 
@@ -92,9 +92,9 @@ Ha en bra dag!
 | [L-F03](#l-f03--taxeringsvärde--marknadsvärde) | Taxeringsvärde / marknadsvärde | **besvarad** — 1 357 000 kr (**2025**) |
 | [L-F04](#l-f04--antal-byggnader) | Antal byggnader på tomten | besvarad |
 | [L-F05](#l-f05--lada-och-bostad-samma-fastighet) | Lada och bostad — samma fastighet | besvarad |
-| [L-F06](#l-f06--bygglov--klassificering-lada) | Bygglov / ändrad användning lada | delvis — **verksamhet klar** |
+| [L-F06](#l-f06--bygglov--klassificering-lada) | Bygglov / ändrad användning lada | **BYGG 01 inskickad** 2026-09-09 — väntar svar från Mora *(blockerar inte avtal/stiftelse)* |
 | [L-F07](#l-f07--inteckningar--servitut) | Inteckningar / servitut / granne | **besvarad** — pantbrev 500 tkr, **inga banklån** |
-| [L-F08](#l-f08--ändrad-användning-hjälp) | Ändrad användning — action plan | **bokat 2026-08-18** WhatsApp |
+| [L-F08](#l-f08--ändrad-användning-hjälp) | Ändrad användning — action plan | **klart** — BYGG 01 inskickad 2026-09-09 |
 | [L-B01](#l-b01--antal-barn) | Antal barn | besvarad |
 | [L-B06](#l-b06--ariel-minderårig) | Ariel — gåva vid 18 | besvarad |
 | [L-B02](#l-b02--barnens-namn) | Barnens namn | besvarad |
@@ -114,7 +114,7 @@ Ha en bra dag!
 | [L-S06](#l-s06--planerad-verksamhet-i-ladan) | Planerad verksamhet i ladan | besvarad |
 | [L-T01](#l-t01--önskat-klart-datum) | Önskat klart datum | ej skickad |
 | [L-T02](#l-t02--budget-juridik--myndigheter) | Budget juridik + myndigheter | ej skickad |
-| [L-T03](#l-t03--jurist-granskning) | Jurist för granskning (G0–G2) | ej skickad |
+| [L-T03](#l-t03--jurist-granskning) | Jurist för granskning (G0–G2) | **G1 genomförd** 2026-09-09 |
 | [L-T04](#l-t04--budget-granskning) | Budget granskning (fast pris) | ej skickad |
 
 ---
@@ -208,17 +208,16 @@ Se [`bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransni
 
 ### L-F06 · Bygglov / klassificering lada
 
-**Status:** delvis besvarad — **2026-06-08**
+**Status:** **BYGG 01 inskickad** — 2026-09-09
 
 **Svar:**
 
 - **Ingen** tillbyggnad eller **ytterligare ändring utvändigt** planerad.
-- **Behöver göras:** ansökan om **ändrad användning** (Johan hade förträngt detta).
-- Johan vill ha **hjälp** med ansökan — tror det går **enkelt via nätet** (Mora kommun).
-- **Diarienummer:** Johan förstod inte — *det är kommunens ärendenummer **efter** ansökan; behövs inte nu.*
+- **Ändrad användning:** ansökan **BYGG 01 inskickad** (Johan, 2026-09-09).
+- **Diarienummer / beslut:** Mora har inte svarat. **Behövs inte** för avtal eller stiftelse — spara när det kommer.
 - Action plan: [`bygglov-andrad-anvandning-ladan.sv.md`](../01-fastighetsbildning/bygglov-andrad-anvandning-ladan.sv.md)
 
-**Saknas fortfarande:** befintligt bygglov/klassificering om dokument finns (begär från miljobygg@mora.se).
+**Saknas fortfarande:** diarienummer, kommunens beslut; ev. äldre bygglov från miljobygg@mora.se.
 
 **Planerad ny användning:** se L-S06 / [`stiftelse-syfte-utkast.sv.md`](../02-stiftelse/stiftelse-syfte-utkast.sv.md) (reviderad 2026-08 — mer återhållsam i stadgarna). Kommuntext: [`bygglov-BYGG01-genomgang.sv.md`](../01-fastighetsbildning/bygglov-BYGG01-genomgang.sv.md).
 
@@ -231,21 +230,21 @@ Se [`bilaga-avgransning-ladan.sv.md`](../05-johan-livslang-ratt/bilaga-avgransni
 **Svar:**
 
 - **Pantbrev/inteckning finns:** **500 000 kr** (anteckningsdag 2021-10-15, akt D-2021-00462066:2) — [`misc/pantbrev.jpeg`](misc/pantbrev.jpeg). Skriftligt papperspantbrev som Johan har fysiskt.
-- **Banklån:** **inga** (Johan 2026-08). Inteckningen tolkas som **obelånad** / ägarpantbrev tills G1 ev. föreslår annat.
-- **Kvar till G1 / före gåva:** beslut om inteckningen ska **dödas** eller **följa med** (följer fastigheten oavsett om det finns lån). Bekräfta mot Lantmäteriets fastighetsutdrag att 500 tkr är enda inteckningen.
+- **Banklån:** **inga** (Johan 2026-08). Inteckningen tolkas som **obelånad** / ägarpantbrev tills annat följer av juristkommentar.
+- **Kvar före gåva:** beslut om inteckningen ska **dödas** eller **följa med** (följer fastigheten oavsett om det finns lån). Bekräfta mot Lantmäteriets fastighetsutdrag att 500 tkr är enda inteckningen. G1 genomförd 2026-09-09 — se ev. svar i [`granskningspunkter-jurist.sv.md`](granskningspunkter-jurist.sv.md) §5.
 - **Granne (oförändrat):** fastigheten **avstyckad**; **gemensam brunn**; gemensam **landremsa** ~2 m — [`servitut-utkast.sv.md`](../03-arrende/servitut-utkast.sv.md).
 
 ---
 
 ### L-F08 · Ändrad användning — hjälp till Johan
 
-**Status:** **bokat 2026-08-18** — BYGG 01 via WhatsApp (telefon + BankID)
+**Status:** **klart** — BYGG 01 **inskickad** 2026-09-09 (Johan, BankID)
 
-**Svar:** Johan önskar hjälp med **ändrad användning**. Verksamhet: L-S01/L-S06. Övernattning ska **inte** kunna ske i ladan. Syfte **godkänt**.
+**Svar:** Johan önskade hjälp med **ändrad användning**. Verksamhet: L-S01/L-S06. Övernattning ska **inte** kunna ske i ladan. Syfte **godkänt**. Ansökan skickad.
 
-**Nästa steg:** Peter + Johan **imorgon (2026-08-18)** — [WhatsApp-guide](../01-fastighetsbildning/bygglov-BYGG01-whatsapp-guide.sv.md). Spara utkast; skicka när text + bilagor stämmer. **Ingen övernattning** i beskrivningen.
+**Nästa steg:** vänta på Mora (e-post till Johan). **Diarienummer behövs inte** för att göra avtalen klara eller bilda stiftelsen. Spara numret när det kommer.
 
-**Flaggor för kommun/G1:** livsmedel/handel med lokala produkter; **inte** övernattning.
+**Flaggor mot kommunen:** livsmedel/handel med lokala produkter; **inte** övernattning.
 
 ---
 
@@ -282,9 +281,9 @@ Tack!
 | Roll | Namn |
 |------|------|
 | **Förvaltare / givare** | Johan Rabén |
-| **Ägare (myndig)** | **Julia Shantz** (kvinna) |
+| **Ägare (myndig)** | **Julia Shantz** (kvinna) — 19990715-6120 |
 | **Ägare (myndig)** | **Lycke Rabén** (man) |
-| **Ägare (vid 18)** | **Ariel Lindell** — 20130725-XXXX — lagfart **2031-07-25** |
+| **Ägare (vid 18)** | **Ariel Lindell** — 20130725-6898 — lagfart **2031-07-25** |
 
 **Bakgrund:** tre barn, **tre mammor**.
 
@@ -292,9 +291,9 @@ Tack!
 
 | | |
 |--|--|
-| Julia Shantz | 19990715-XXXX |
-| Lycke Rabén | 20070207-XXXX |
-| Ariel Lindell | 20130725-XXXX |
+| Julia Shantz | 19990715-6120 |
+| Lycke Rabén | 20070207-5367 |
+| Ariel Lindell | 20130725-6898 |
 
 ---
 
@@ -343,7 +342,8 @@ Ja — Ariel ska få **1/3 vid 18** (**2031-07-25**). Upplägg: gåva **nu** til
 **Svar:**
 
 - **Vårdnad:** **Gemensam** (Johan + Maria)
-- **Ariels mamma / förmyndare:** **Maria Troive Lindell** *(Johan: „Maria Troive/Lindell“)* — personnummer **731020-XXXX**
+- **Förmyndare pappa:** **Johan Rabén** — 19690310-0292, Budgatu 100, 790 92 Sollerön
+- **Ariels mamma / förmyndare:** **Maria Troive Lindell** *(Johan: „Maria Troive/Lindell“)* — personnummer **19731030-8528**
 - **Samtal:** gick bra; Maria är **förmyndare** och **ok** med upplägget (Julia + Lycke nu, Ariel 1/3 vid 18)
 - **Undertecknande:** båda förmyndare ska signera tilläggsgåvobrev för Ariel
 
@@ -421,7 +421,7 @@ Ja — **Johan** betalar **fastighetsskatt, försäkring och löpande underhåll
 
 | Roll | Namn |
 |------|------|
-| Styrelse | **Johan Rabén** (ordförande) + **Max Brar** (700907-XXXX) |
+| Styrelse | **Johan Rabén** (ordförande) + **Max Brar** (19700907-2419, Olsmässgatan 2, 129 44 Hägersten) |
 | Firmateckning | Ordföranden **ensam** |
 
 *G1 kan fortfarande flagga praxis om två ledamöter — Johan har sagt nej till tredje.*
@@ -503,7 +503,7 @@ Tack!
 
 ### L-T03 · Jurist för granskning (G0–G2)
 
-**Status:** ej skickad
+**Status:** **G1 genomförd** — 2026-09-09
 
 **Meddelande till Johan**
 
@@ -515,9 +515,7 @@ Vi tänker använda jurist bara för att granska färdiga utkast (inte skriva al
 Tack!
 ```
 
-**Svar:**
-
-
+**Svar:** **G1 genomförd muntligt** 2026-09-09. Inget skriftligt behövs.
 
 ---
 
@@ -594,7 +592,7 @@ Tack!
 
 **Svar:**
 
-- **Maria Troive Lindell** (731020-XXXX) — gemensam vårdnad, förmyndare, **ok** med upplägg
+- **Maria Troive Lindell** (19731030-8528) — gemensam vårdnad, förmyndare, **ok** med upplägg
 - **Fastighet:** Mora Bodarna **108:6**, **Mora kommun**
 - **Byggnader:** bostadshus, ladan, uthus, friggebod (1 st)
 
@@ -607,6 +605,20 @@ Tack!
 **Gjort:** [`arrendeavtal-100-ar`](../03-arrende/arrendeavtal-100-ar.sv.md), [`gavobrev-fastighet`](../04-overlatelse/gavobrev-fastighet.sv.md), [`avtal-johan-livslang`](../05-johan-livslang-ratt/avtal-johan-livslang.sv.md), [`stadgar`](../02-stiftelse/stadgar.sv.md), [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md).
 
 **Saknas:** kartskiss ladans mark, taxeringsvärde, datum/signering.
+
+---
+
+### 2026-09-09 — G1 muntlig · BYGG 01 inskickad · PNR
+
+**Källa:** Peter
+
+- **G1** **muntlig** — inget skriftligt.
+- **BYGG 01** inskickad; Mora har inte svarat. **Diarienummer blockerar inte** avtal/stiftelse.
+- PNR inlagt: Lycke 20070207-5367, Ariel 20130725-6898, Maria 19731030-8528, Max 19700907-2419, Julia 19990715-6120, Johan 19690310-0292.
+- Johan adress: **Budgatu 100, 790 92 Sollerön**.
+- **Nästa:** utskrifts-/signeringspaket.
+
+**Uppdaterat:** [`utkast-paket-status.sv.md`](utkast-paket-status.sv.md), [`intressenter.sv.md`](intressenter.sv.md), gåvobrev, tillägg Ariel, arrende, Johans avtal.
 
 ---
 
@@ -769,16 +781,17 @@ Tack!
 | **Fastighetsbeteckning** | **Mora Bodarna 108:6** |
 | **Kommun** | **Mora kommun** |
 | **Byggnader** | Bostadshus, Ladan, Uthus, Friggebod (1 st) |
-| **Vårdnad Ariel** | **Gemensam** — Johan Rabén + **Maria Troive Lindell** (731020-XXXX) |
+| **Vårdnad Ariel** | **Gemensam** — Johan Rabén + **Maria Troive Lindell** (19731030-8528) |
 | **Maria — samtycke** | **Ok** (bekräftat igen 2026-08; Julia/Lycke ok enl. Johan) |
-| **Lån / inteckning / pantbrev** | Pantbrev **500 000 kr** — **inga banklån** (Johan 2026-08); beslut döda/behålla → G1 |
+| **Lån / inteckning / pantbrev** | Pantbrev **500 000 kr** — **inga banklån** (Johan 2026-08); beslut döda/behålla före gåva |
 | **Granne / gemensamt** | Avstyckad; **gemensam brunn**; **landremsa** ~2 m — verifiera servitut |
-| **Bygglov lada** | **Ändrad användning** ska sökas — Peter hjälper till |
+| **Bygglov lada** | **BYGG 01 inskickad** 2026-09-09 — Mora har inte svarat; **blockerar inte** avtal/stiftelse |
+| **G1** | **Genomförd** 2026-09-09 |
 | **Taxeringsvärde** | **1 357 000 kr** (**2025** års, senaste) |
 | Lada + bostad samma fastighet | Ja |
 | Stiftelsens namn | **Stiftelsen Omskapa Världen** |
-| Stiftare | Johan Rabén |
-| Barn (ägare) | Julia Shantz (19990715-XXXX), Lycke Rabén (20070207-XXXX), Ariel Lindell (20130725-XXXX) |
+| Stiftare | Johan Rabén, 19690310-0292, Budgatu 100, 790 92 Sollerön |
+| Barn (ägare) | Julia Shantz (19990715-6120), Lycke Rabén (20070207-5367), Ariel Lindell (20130725-6898) |
 | Ariel 18 / lagfart | **2031-07-25** |
 | Vårdnad Ariel | Gemensam — Johan + Maria |
 | Förvaltare | Johan Rabén |

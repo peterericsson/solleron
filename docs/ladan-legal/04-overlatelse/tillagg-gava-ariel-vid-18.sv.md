@@ -8,9 +8,9 @@ Detta tillägg hör ihop med [`gavobrev-fastighet.sv.md`](gavobrev-fastighet.sv.
 
 ## Parter
 
-**Givare:** Johan Rabén  
-**Mottagare (nu):** Julia Shantz, Lycke Rabén  
-**Framtida mottagare:** Ariel Lindell, personnummer 20130725-XXXX (född **2013-07-25**)
+**Givare:** Johan Rabén, 19690310-0292, Budgatu 100, 790 92 Sollerön  
+**Mottagare (nu):** Julia Shantz (19990715-6120), Lycke Rabén (20070207-5367)  
+**Framtida mottagare:** Ariel Lindell, personnummer 20130725-6898 (född **2013-07-25**)
 
 **18-årsdag (gåva + lagfart):** **2031-07-25**
 
@@ -61,7 +61,7 @@ Givarens **förpliktelse** enligt §2 ska **fullgöras av dödsboet** i den mån
 
 ## 6. Förmyndare
 
-Ariels **förmyndare** **Johan Rabén** och **Maria Troive Lindell** (731020-XXXX) undertecknar detta tillägg **för Ariels räkning** som bekräftelse på att gåvan vid 18 är **till Ariels fördel**.
+Ariels **förmyndare** **Johan Rabén** (19690310-0292) och **Maria Troive Lindell** (19731030-8528) undertecknar detta tillägg **för Ariels räkning** som bekräftelse på att gåvan vid 18 är **till Ariels fördel**.
 
 ---
 

@@ -1,8 +1,8 @@
 # Bygglov — ändrad användning (Sollerö Ladan)
 
 **Fastighet:** Mora Bodarna 108:6 · **Kommun:** Mora  
-**Status:** Johan ska söka **ändrad användning** — inget yttre byggande planerat (2026-06-08).  
-**Hjälp:** Peter/kollega kan guida ansökan; jurist/G1 tar inte bygglovsärendet.
+**Status:** **BYGG 01 inskickad** 2026-09-09 — Mora har inte svarat. **Diarienummer behövs inte** för avtal eller stiftelsebildning.  
+**Hjälp:** Peter/kollega guidar; jurist tar inte bygglovsärendet. **G1** är genomförd (2026-09-09).
 
 ---
 
@@ -12,7 +12,7 @@
 - Ladan ska användas för **stiftelsens syfte** (kultur/gemenskap m.m.) — det kan kräva **lov för ändrad användning** enligt plan- och bygglagen (PBL), även utan ombyggnad.
 - Johan hade **förträngt** detta; vill ha **hjälp** med ansökan (gärna **digitalt**).
 
-**Diarienummer:** kommunens **ärendenummer** när ett bygglovsärende registreras (t.ex. `2024/1234`). Behövs inte nu — fås **efter** ansökan. Johan behöver inte veta det i förväg.
+**Diarienummer:** kommunens ärendenummer. **Ansökan inskickad** 2026-09-09; Mora har inte svarat. **Behövs inte** för att slutföra avtal eller bilda stiftelsen — spara numret när det kommer.
 
 ---
 
@@ -57,7 +57,7 @@ Byggnaden **ändras inte utvändigt**, men **användningssättet** ändras — t
 | Juridiskt | Bygglov |
 |-----------|---------|
 | Stiftelse + arrende | Kan påbörjas **parallellt**, men **verksamhet i ladan** bör stämma med **godkänd användning** |
-| G1 (jurist) | Ta med **bygglovsstatus** — „ansökt“, „beviljat“, eller „planbesked“ |
+| G1 (jurist) | **Genomförd** 2026-09-09 — bygglov: **ansökt** (BYGG 01 inskickad) |
 | Gåvobrev / överlåtelse | **Oberoende** av bygglov, men stiftelsens syfte i S01 bör **matcha** ansökan |
 
 ---
@@ -74,7 +74,7 @@ Byggnaden **ändras inte utvändigt**, men **användningssättet** ändras — t
 ## Öppet
 
 - [x] Planerad **användning** i klartext (L-S01 / L-S06) — Johan 2026-06-15
-- [ ] **Planbesked** eller ansökan inlämnad — datum
+- [x] **Ansökan BYGG 01** inlämnad — **2026-09-09**
 - [ ] **Diarienummer** när ärende finns
 - [ ] Kopia **beslut** (beviljat/avslaget)
 - [ ] Utredning: är brunn/remsa **inskrivet servitut**?

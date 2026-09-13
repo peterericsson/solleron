@@ -1,11 +1,6 @@
 # Stiftelseförordnande — Stiftelsen Omskapa Världen
 
-**UTKAST — granska vid G1 innan undertecknande**  
-*Ändamål synkat med Johan + Max 2026-08-03 — se [`stiftelse-syfte-utkast.sv.md`](stiftelse-syfte-utkast.sv.md).*
-
 Stiftelsen bildas härmed genom detta stiftelseförordnande enligt stiftelselagen (1994:1220).
-
----
 
 ## 1. Stiftare
 
@@ -13,13 +8,9 @@ Stiftelsen bildas härmed genom detta stiftelseförordnande enligt stiftelselage
 **Personnummer:** 19690310-0292  
 **Adress:** Budgatu 100, 790 92 Sollerön
 
----
-
 ## 2. Stiftelsens namn
 
 **Stiftelsen Omskapa Världen**
-
----
 
 ## 3. Stiftelsens ändamål
 
@@ -31,19 +22,9 @@ Stiftelsen ska **inte** bedriva **alkoholpub**, **nattklubb** eller **vinstdriva
 
 Eventuellt överskott ska återinvesteras i ändamålet. **Vinst i materialistisk eller kapitalistisk mening är inte ändamålet** med stiftelsen. Vinst får inte delas ut till privatpersoner.
 
----
-
 ## 4. Stiftelsekapital / egendom
 
-Stiftaren tillför vid bildandet (**Modell A** — ladans mark via **arrende** på barnens fastighet):
-
-- [x] **Lös egendom / byggnad:** byggnaden **Sollerö Ladan** (upplåts/överlåts stiftelsen enligt avtal; mark via arrende)
-- [ ] Lös egendom: SEK [BELOPP]
-- [ ] Annat: [BESKRIV]
-
-**Värdering / beskrivning:** Ladbyggnad Sollerö Ladan + 100-års arrende på mark (Modell A). Kontant kapital: [ev. SEK — fyll i vid behov].
-
----
+Stiftaren tillför vid bildandet byggnaden **Sollerö Ladan** på fastigheten Mora Bodarna 108:6, Mora kommun. Marken upplåts genom **100-års arrende** när stiftelsen är registrerad.
 
 ## 5. Styrelse
 
@@ -53,18 +34,14 @@ Stiftelsen ska ha en styrelse om **två (2)** ledamöter.
 
 | Roll | Namn | Personnummer | Adress |
 |------|------|--------------|--------|
-| Ordförande | **Johan Rabén** | 19690310-0292 | Budgatu 100, 790 92 Sollerön |
-| Ledamot | **Max Brar** | 19700907-2419 | Olsmässgatan 2, 129 44 Hägersten |
+| Ordförande | Johan Rabén | 19690310-0292 | Budgatu 100, 790 92 Sollerön |
+| Ledamot | Max Brar | 19700907-2419 | Olsmässgatan 2, 129 44 Hägersten |
 
-Styrelsen utser själv efterträdare vid ledighet enligt [STADGAR / detta förordnande].
-
----
+Styrelsen utser själv efterträdare vid ledighet enligt stadgarna och detta förordnande.
 
 ## 6. Firmateckning
 
 Stiftelsen tecknas av styrelsens båda ledamöter, **Johan Rabén och Max Brar, var för sig**.
-
----
 
 ## 7. Ekonomi
 
@@ -72,36 +49,26 @@ Stiftelsen tecknas av styrelsens båda ledamöter, **Johan Rabén och Max Brar, 
 - Överskott ska återinvesteras i ändamålet.
 - Vinst i materialistisk eller kapitalistisk mening är inte ändamålet; utdelning till privatpersoner får inte ske.
 
----
-
 ## 8. Revisor
 
-[ ] Revisionsplikt enligt lag — revisor utses av styrelsen.  
-[ ] Ingen revisor vid bildande (styrelsen bedömer krav enligt lag).
-
----
+Ingen revisor utses vid bildandet. Styrelsen bedömer revisionsplikt enligt lag löpande.
 
 ## 9. Stiftelsens säte
 
 **Mora kommun**
 
----
-
 ## 10. Förordnande om varaktighet
 
 Stiftelsen ska bestå **tills vidare**. Upplösning får endast ske om ändamålet blir **omöjligt** att fullgöra; vid upplösning tillfaller kvarvarande tillgångar **annan ideell verksamhet eller organisation med liknande syfte**.
 
----
-
 ## 11. Övrigt
 
 Stiftelsen strävar efter **win-win-win**-samverkan enligt stadgarna (samarbeten, utbyten och handel där alla parter — inklusive planeten och miljön — i största mån har utbyte).
-
----
 
 **Ort och datum:** _______________
 
 **Stiftarens underskrift:**
 
 _________________________  
-Johan Rabén
+Johan Rabén  
+19690310-0292
